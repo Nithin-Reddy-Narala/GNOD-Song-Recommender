@@ -1,0 +1,814 @@
+album,artist,uri,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Rainbow Connection,The Muppets,spotify:track:1SJ4ycWow4yz6z4oFz8NAG,0.526,0.413,9,-7.674,1,0.0278,0.428,0.0,0.126,0.211,115.936
+Somewhere Over The Rainbow_What A Wonderful World,Israel Kamakawiwo'ole,spotify:track:25U7raB3ZSszayTYClh4hF,0.663,0.168,0,-13.725,1,0.0448,0.928,5.68e-05,0.361,0.678,85.005
+What a Wonderful World,Joey Ramone,spotify:track:04cdEVbQPb8BJb7593e5fO,0.422,0.878,5,-4.863,1,0.0442,0.00935,0.332,0.201,0.496,84.044
+One Day / Reckoning Song (Wankelmut Remix) [Radio Edit],Asaf Avidan & the Mojos,spotify:track:5HSkycOEtb9iQ7cg1Oyqmu,0.821,0.676,3,-6.366,0,0.0547,0.187,0.0001,0.0927,0.559,119.012
+What A Wonderful World - Single Version,Louis Armstrong,spotify:track:2pp3RfqX5cb1BAnmNi4Nej,0.388,0.327,5,-12.522,1,0.0317,0.732,0.00103,0.15,0.222,107.894
+Homecoming,Green Day,spotify:track:4wH29TM74O3788Kn1KzWuY,0.296,0.929,9,-3.068,1,0.0751,0.000722,5.83e-06,0.349,0.411,123.709
+Wake Me up When September Ends,Green Day,spotify:track:3ZffCQKLFLUvYM59XKLbVm,0.546,0.814,7,-5.146,1,0.0314,0.023,0.0,0.0972,0.146,104.98
+Jesus of Suburbia,Green Day,spotify:track:58KPPL1AdLHMvR2O2PZejr,0.3,0.929,1,-3.214,1,0.0636,0.000259,2.26e-06,0.329,0.59,147.116
+Not Afraid,Eminem,spotify:track:7Ie9W94M7OjPoZVV216Xus,0.855,0.954,0,-1.19,0,0.264,0.529,0.0,0.205,0.668,114.635
+God & Satan,Biffy Clyro,spotify:track:6aihKTSpfxixl9uqm4hNEy,0.726,0.542,7,-9.523,1,0.03,0.327,0.0,0.146,0.305,120.201
+Softer to Me,Relient K,spotify:track:5PMA1s2sfSlZWTB4XjEGfo,0.302,0.692,8,-5.848,1,0.0311,0.000535,0.533,0.153,0.259,158.325
+Longview,Green Day,spotify:track:3LRJbFT9rKoKv4aW7PuBJC,0.381,0.732,10,-7.594,0,0.0536,0.00834,0.0101,0.0854,0.814,142.504
+Somebody That I Used to Know (Dubstep Remix),Dubstep Mafia,spotify:track:2KzIsNi9E7H74h0oVX9JzY,0.629,0.718,9,-6.557,0,0.035,0.011,0.000211,0.152,0.0611,140.02
+Somebody That I Used To Know - Bombs Away Dubstep Remix,The Westside Gaming,spotify:track:3NdAXnoxuXuIM74oQWVAna,0.747,0.561,0,-14.553,1,0.204,0.0877,3.02e-05,0.076,0.644,141.034
+Love You Like A Love Song,Selena Gomez & The Scene,spotify:track:0laYHRpNTS6i8FXdupHkJ4,0.858,0.678,1,-3.87,0,0.0469,0.0761,0.0,0.0741,0.922,117.009
+We Are Young (feat. Janelle Monáe),fun.,spotify:track:7a86XRg84qjasly9f6bPSD,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086
+Grenade,Bruno Mars,spotify:track:2tJulUYLDKOg9XrtVkMgcJ,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444
+Marry You,Bruno Mars,spotify:track:22PMfvdz35fFKYnJyMn077,0.621,0.82,10,-4.865,1,0.0367,0.332,0.0,0.104,0.452,144.905
+Dust in the Wind,"The Hit Co., The Tribute Co.",spotify:track:0EycxtLQimD0jgscVwTQBz,0.502,0.239,9,-14.54,0,0.0308,0.436,1.65e-06,0.0966,0.403,93.733
+Everybody Hurts,The Hit Co.,spotify:track:2QVA6ZKunwNJApyPKvIJ6S,0.32,0.311,2,-12.753,1,0.029,0.444,0.000709,0.128,0.434,188.298
+The Sound of Silence,Simon & Garfunkel,spotify:track:7eQUgarLukHLkZaO1mxtab,0.531,0.217,6,-13.883,1,0.0302,0.871,2.59e-06,0.101,0.34,106.842
+Utopia (feat. Chris Jones),Within Temptation,spotify:track:0rZQcqysLosoc46Vv6I54b,0.459,0.591,6,-6.445,1,0.0296,0.0298,0.0,0.165,0.164,113.324
+Sinéad,Within Temptation,spotify:track:6agaR8uXdeycsvlxtZvKMW,0.53,0.823,2,-4.066,1,0.0321,0.00349,0.0,0.144,0.163,116.975
+Faster,Within Temptation,spotify:track:09whmgWfGHPys6k3M9Athv,0.503,0.923,6,-2.864,0,0.0412,0.00119,0.000474,0.117,0.515,120.007
+Highwayman,The Highwaymen,spotify:track:0KLGjcaznMqpUwxAws0KwL,0.671,0.524,11,-10.407,0,0.0371,0.528,0.0174,0.136,0.455,101.348
+Another Day In Paradise,Phil Collins,spotify:track:3wNXqTMimmuTEj1iEPftC7,0.792,0.411,5,-12.384,0,0.033,0.786,0.00212,0.0499,0.41,101.976
+Stairway to Heaven,Led Zepagain,spotify:track:0DANcJuMamcL9NyYkEWWTq,0.392,0.479,7,-6.786,1,0.028,0.202,0.00533,0.0767,0.259,97.987
+Just Give Me a Reason,P!nk,spotify:track:1qHaLcG3LOeh6ZB8vii5ZZ,0.778,0.547,2,-7.273,1,0.0489,0.346,0.000302,0.132,0.441,95.002
+Since I Gave Up Hope I Feel Alot Better,Steve Taylor,spotify:track:12qAxo8fvGYedhhYQnwJLz,0.52,0.933,8,-10.32,1,0.0481,0.176,3.12e-06,0.338,0.795,184.464
+Innocence Lost,Steve Taylor,spotify:track:05LnKShwBQgAGaCf37KJbW,0.608,0.716,10,-11.232,1,0.0313,0.112,3.49e-05,0.224,0.728,111.993
+Sin For A Season,Steve Taylor,spotify:track:7BCDwOzZDNjhICmOP2Dw0O,0.797,0.441,11,-14.611,1,0.0304,0.00877,0.00083,0.063,0.829,117.699
+Hero,Steve Taylor,spotify:track:5syIJeygRTI21cDwFtwsRf,0.668,0.235,2,-17.567,1,0.0529,0.178,2.19e-05,0.161,0.418,79.942
+White America,Eminem,spotify:track:15qrWkkYCfmtu1uRpGf48L,0.558,0.615,1,-5.641,1,0.229,0.0103,0.0,0.105,0.16,76.673
+Role of A Lifetime,Cast Recording,spotify:track:7DdkL7YtSRFZotD4qZloRG,0.469,0.212,2,-12.13,0,0.0341,0.652,0.00113,0.104,0.147,144.243
+Plain Jane Fat Ass,Cast Recording,spotify:track:7IqfeRNfc7ZQ878X38kJd9,0.604,0.489,11,-10.366,0,0.115,0.0959,0.0,0.165,0.306,167.169
+Best Kept Secret,Cast Recording,spotify:track:0PTiNSf92CZq2ffN3Lg9GO,0.701,0.295,3,-13.138,1,0.0355,0.621,0.0,0.122,0.152,109.165
+Ever After,Cast Recording,spotify:track:56ThAgAaWjACo2UAhBItSh,0.498,0.249,4,-11.578,0,0.047,0.596,0.0,0.109,0.182,76.604
+That's All She Wrote (feat. Eminem),T.I.,spotify:track:4UwtMoKBvYi0mMbH2ZI3uB,0.496,0.785,7,-3.472,1,0.306,0.0328,0.0,0.0941,0.357,170.02
+Second Chance,Shinedown,spotify:track:0CwYG1UnRmOx8Q1EzElCIL,0.46,0.796,0,-4.501,0,0.0333,0.00107,0.0,0.106,0.182,100.011
+Teenagers,My Chemical Romance,spotify:track:7j31rVgGX9Q2blT92VBEA0,0.463,0.857,4,-3.063,1,0.0632,0.0506,0.0,0.184,0.856,111.647
+Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,spotify:track:3bidbhpOYeV4knp8AIu8Xn,0.641,0.922,2,-4.457,1,0.0786,0.0291,0.0,0.0862,0.847,146.078
+Some Nights,fun.,spotify:track:6t6oULCRS6hnI7rm0h5gwl,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938
+Come & Get It,Selena Gomez,spotify:track:7Gkphzdh5ouurEt7JT49Yu,0.548,0.788,7,-4.115,0,0.0495,0.00905,0.000167,0.0966,0.576,80.047
+Thrift Shop (feat. Wanz),Macklemore,spotify:track:1CmUZGtH29Kx36C1Hleqlz,0.781,0.526,6,-6.985,0,0.293,0.0619,0.0,0.0457,0.662,94.992
+Mirrors,Justin Timberlake,spotify:track:03gqZZavMKhWbSjdQvpF6O,0.344,0.509,5,-6.607,0,0.0722,0.24,0.0,0.083,0.529,76.004
+When I Was Your Man,Bruno Mars,spotify:track:0nJW01T7XtvILxQgC5J7Wh,0.612,0.28,0,-8.648,1,0.0434,0.932,0.0,0.088,0.387,72.795
+I Need Your Love (feat. Ellie Goulding),Calvin Harris,spotify:track:05SBRd4fXgn8FX7bf8BCAE,0.695,0.869,8,-5.066,1,0.0483,0.41,0.0,0.237,0.58,124.989
+My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,spotify:track:7s0lDK7y3XLmI7tcsRAbW0,0.558,0.924,9,-4.341,0,0.064,0.0271,3.32e-06,0.537,0.567,151.99
+Heart Attack,Demi Lovato,spotify:track:25n4NECujqOxQHdXVIVc9I,0.499,0.776,8,-4.793,1,0.0682,0.0726,0.0,0.281,0.526,173.979
+Radioactive,Imagine Dragons,spotify:track:4G8gkOterJn0Ywt6uhqbhp,0.448,0.784,9,-3.686,1,0.0627,0.106,0.000108,0.668,0.236,136.245
+Feel This Moment (feat. Christina Aguilera),Pitbull,spotify:track:1lb0sQGUjzJhkNNU6srjeZ,0.668,0.758,7,-3.589,1,0.158,0.0338,0.0,0.204,0.531,135.958
+No Love,Eminem,spotify:track:7bHT9osSq1rwT2yaImzqCi,0.522,0.932,11,-2.87,1,0.255,0.119,0.0,0.177,0.33,129.473
+Stay,Shaun Reynolds,spotify:track:3ShCJTrnhjvUpL234S4QbJ,0.594,0.344,9,-9.602,0,0.0354,0.927,0.0,0.111,0.32,111.735
+I Knew You Were Trouble.,Taylor Swift,spotify:track:4GzDUKkd1RwAtYZMMUBM3W,0.599,0.474,6,-6.794,1,0.0379,0.00532,2.84e-06,0.0216,0.649,154.182
+Through the Ghost,Shinedown,spotify:track:33JmIIfnnqxwUSpXo5ttDG,0.517,0.657,7,-6.324,0,0.0258,0.0661,0.0,0.131,0.253,110.999
+50 Ways to Say Goodbye - Radio Version,Ways to Say You Died,spotify:track:3IXiopjRC9ggfHgQuvPodS,0.533,0.846,6,-5.593,1,0.0329,0.0369,0.0,0.109,0.604,140.018
+Lucy,Skillet,spotify:track:4VqkhvOP0FkcVrDxgJXtxM,0.481,0.71,7,-4.785,1,0.0298,0.183,0.0,0.147,0.188,140.062
+Shut Me Up,Mindless Self Indulgence,spotify:track:7AH9Fmka4of4Y25lfhvBUC,0.589,0.797,1,-4.213,1,0.173,0.000673,0.0,0.0246,0.787,174.039
+Rain Song,Day Of Fire,spotify:track:68atHlXiiY4UPQ7A6T0C5m,0.464,0.856,3,-4.229,0,0.0315,0.0143,0.0,0.152,0.345,148.188
+Hey There Delilah,Kurt Hugo Schneider,spotify:track:2W4zduSruGmaWJv343JW90,0.46,0.41,9,-7.364,0,0.0365,0.904,7.45e-05,0.104,0.445,90.41
+Kyoto (feat. Sirah),Skrillex,spotify:track:3FUZpoj9VV0sgc8RqbS3xQ,0.605,0.92,4,-2.298,0,0.0713,0.0012,0.000596,0.483,0.219,174.974
+As Long As You Love Me,Justin Bieber,spotify:track:0pwYLVXVknPSGUQb39cePC,0.571,0.873,0,-3.382,0,0.1,0.0811,0.0,0.361,0.613,139.691
+Catch My Breath,Kelly Clarkson,spotify:track:7kAYyzVhWr3nSqAC7CUOWK,0.691,0.946,9,-3.221,1,0.0678,0.0259,0.0,0.0897,0.517,124.021
+The Lunatics (Have Taken Over the Asylum),Fun Boy Three,spotify:track:297GNKCxzQaumcvLp6b2D5,0.766,0.449,7,-13.552,1,0.0415,0.0645,0.00846,0.0434,0.705,115.449
+Drive By,Train,spotify:track:1wAXODAAL6hY64ZdhrnjBO,0.759,0.849,1,-3.198,0,0.0317,0.000983,1.51e-05,0.0864,0.73,122.033
+Last Resort,Papa Roach,spotify:track:5eek2X5459T1HoYJk2CKXv,0.581,0.887,4,-3.659,0,0.0624,0.000504,0.00111,0.268,0.724,90.578
+Chiron Beta Prime,Jonathan Coulton,spotify:track:1Kku9Y1D75oJ3gqMQWLVOE,0.693,0.712,9,-7.43,1,0.032,0.308,0.0,0.106,0.599,139.908
+Austin,Blake Shelton,spotify:track:2WQAknZHrJAEQOFXe0F44P,0.605,0.609,7,-7.063,1,0.0278,0.188,0.0,0.0982,0.275,119.914
+I Am a Rock,Simon & Garfunkel,spotify:track:0byOqNZN9ailhoORv5Ps0Z,0.66,0.611,0,-10.309,1,0.0392,0.423,1.11e-05,0.107,0.749,113.898
+From God's Perspective,Bo Burnham,spotify:track:6ghnKwHcGX1RLPWjJYKbGd,0.338,0.478,0,-5.895,1,0.0404,0.775,0.0,0.737,0.357,86.862
+Rockstar,Nickelback,spotify:track:6n9yCXvLhnYMgJIiIcMu7D,0.616,0.91,0,-3.004,1,0.0386,0.0459,0.0,0.343,0.693,144.072
+Finally Moving,Pretty Lights,spotify:track:3WS7spXVlbeC5kjePmHMQW,0.735,0.555,1,-8.84,0,0.0366,0.382,0.856,0.0952,0.523,100.01
+Honestly,Stryper,spotify:track:66POKxMki5FryEYtHBZ5GZ,0.446,0.432,3,-11.194,1,0.0268,0.302,0.00668,0.17,0.129,79.856
+Blinded,The Bots,spotify:track:1wbdOwwLLuiDq1MgMdVJcd,0.573,0.762,0,-3.748,1,0.0303,0.0285,0.0,0.061,0.381,89.008
+On the Radio,Regina Spektor,spotify:track:6uA9lKAYHcBLhxb5KZYygj,0.88,0.413,0,-8.459,1,0.0462,0.586,0.000833,0.0693,0.44,101.991
+Don't,Ed Sheeran,spotify:track:1huvTbEYtgltjQRXzrNKGi,0.806,0.608,1,-7.008,1,0.0659,0.0113,0.0,0.635,0.849,95.049
+Fight Song,Rachel Platten,spotify:track:37f4ITSlgPX81ad2EvmVQr,0.564,0.714,7,-4.987,1,0.129,0.0549,0.0,0.155,0.33,175.924
+Dynamite,Taio Cruz,spotify:track:1DqdF42leyFIzqNDv9CjId,0.754,0.804,4,-3.177,1,0.0853,0.00332,0.0,0.0329,0.818,119.968
+Blood Brothers,Papa Roach,spotify:track:0R0Od004mm1yRHEVnpygoj,0.467,0.959,2,-3.336,0,0.0693,0.000427,1.04e-06,0.263,0.646,169.167
+When the Tigers Broke Free,Pink Floyd,spotify:track:23ItRtrVX4vF30wGrzfznf,0.164,0.232,0,-16.512,0,0.0499,0.769,0.00268,0.427,0.0552,77.712
+Cabaret,Liza Minnelli,spotify:track:5KhMLaz5JNZviJJAmubGPM,0.503,0.378,5,-12.779,1,0.207,0.84,0.0,0.919,0.516,107.311
+Stressed Out,Twenty One Pilots,spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977
+Could've Been,Tiffany,spotify:track:1xvGuRbLxTkpb5UdUG7HME,0.474,0.238,1,-15.595,1,0.0271,0.554,3.95e-06,0.107,0.137,99.005
+If You Really Loved Me - Live,Tim Minchin,spotify:track:7wOpUrPq4JbTWzFO9wilzm,0.515,0.548,5,-6.819,1,0.0622,0.745,0.0,0.698,0.58,132.539
+First Of May,Bee Gees,spotify:track:1bEzxyJJcadq40MFXhTTtr,0.283,0.349,2,-9.32,1,0.0305,0.362,1.62e-05,0.0932,0.306,130.932
+First of May,Olivia Ong,spotify:track:1zBdbAhsZ53xtR8OnGGhty,0.367,0.181,8,-11.28,1,0.0325,0.92,0.0,0.145,0.365,132.852
+Rock 'n' roll Nerd - Live,Tim Minchin,spotify:track:5P7oDB5bDFHaEJGjnUenTU,0.478,0.469,9,-8.282,0,0.0669,0.709,0.0,0.659,0.423,90.977
+Lemon Eyes,Meg Myers,spotify:track:1bwMNFWG2NXOsSz5AgndIy,0.776,0.566,0,-7.561,1,0.0739,0.366,0.0,0.451,0.652,139.937
+I Mean It (feat. Remo),G-Eazy,spotify:track:6jmTHeoWvBaSrwWttr8Xvu,0.712,0.562,10,-6.008,1,0.129,0.125,0.0,0.136,0.142,140.0
+Heaven Is A Place On Earth,Belinda Carlisle,spotify:track:58mFu3oIpBa0HLNeJIxsw3,0.64,0.81,4,-10.19,1,0.033,0.031,2.22e-06,0.0492,0.804,122.868
+I Think We're Alone Now,Tiffany,spotify:track:0n1NI4TnEw0SeXSS4DNhhb,0.646,0.892,2,-5.406,1,0.041,3.76e-05,0.00665,0.0915,0.7,130.297
+Another One Bites The Dust - Remastered 2011,Queen,spotify:track:57JVGBtBLCfHw2muk5416J,0.933,0.528,5,-6.472,0,0.162,0.112,0.329,0.163,0.756,109.975
+Edge of Seventeen,Stevie Nicks,spotify:track:2id8E4WvczfKHB4LHI7Np3,0.59,0.828,0,-6.28,1,0.0439,0.277,5.57e-06,0.0868,0.636,111.353
+Bless the Broken Road,The Mick Lloyd Connection,spotify:track:5w3rC5qQD1hMhm4aRM7Xcw,0.605,0.473,0,-8.718,1,0.0301,0.742,0.0,0.143,0.321,136.043
+At Seventeen,Janis Ian,spotify:track:3bRcSxW2FnSSwrzoYT1knV,0.599,0.164,0,-23.035,1,0.0475,0.888,0.000612,0.121,0.317,125.388
+Iris,The Goo Goo Dolls,spotify:track:6vrUTGn5p8IrfTZ0J6sIVM,0.291,0.79,11,-5.683,0,0.0363,0.00133,5.61e-06,0.0811,0.513,155.667
+The Lazy Song,Bruno Mars,spotify:track:1ExfPZEiahqhLyajhybFeS,0.794,0.711,8,-5.124,0,0.0699,0.3,0.0,0.0955,0.955,174.915
+Zombie,The Cranberries,spotify:track:2IZZqH4K02UIYg5EohpNHF,0.307,0.635,7,-8.957,1,0.0339,0.0154,0.00483,0.366,0.304,166.973
+Free Bird,Lynyrd Skynyrd,spotify:track:5EWPGh7jbTNO2wakv8LjUI,0.249,0.834,0,-8.21,1,0.0577,0.0738,9.48e-05,0.0924,0.338,118.223
+All of Me,John Legend,spotify:track:3U4isOIWM3VvDubwSI3y7a,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93
+"Paint It, Black - (Original Single Mono Version)",The Rolling Stones,spotify:track:7lY8aoN3wUR3NY4nUwigPv,0.496,0.859,5,-7.927,0,0.0934,0.0135,0.065,0.349,0.768,159.694
+Only Women Bleed,Alice Cooper,spotify:track:59xDvLlKHcLI0c9CSmzxSN,0.334,0.476,7,-8.497,1,0.0308,0.535,0.019,0.278,0.189,147.532
+Losing My Religion,R.E.M.,spotify:track:74EV0g12ihUoOUXMprFpZB,0.672,0.841,9,-5.992,0,0.0285,0.0767,0.0,0.135,0.82,125.437
+Cleanin' Out My Closet,Eminem,spotify:track:4ni8GyT1Lwn1LVl88MJsQd,0.907,0.766,9,-4.742,0,0.173,0.0813,0.0,0.11,0.875,147.996
+Kryptonite,3 Doors Down,spotify:track:6ZOBP3NvffbU4SZcrnt1k6,0.545,0.865,11,-5.708,0,0.0286,0.00664,1.1e-05,0.168,0.543,99.009
+Criminal,Britney Spears,spotify:track:6T689Jvh5KrSXyaPtUWZtQ,0.696,0.734,7,-5.294,1,0.0298,0.0485,0.0,0.183,0.711,107.987
+Imagine - Remastered 2010,John Lennon,spotify:track:7pKfPomDEeI4TPT6EOYjn9,0.547,0.257,0,-12.358,1,0.0252,0.907,0.183,0.0935,0.169,75.752
+The Longest Time,Billy Joel,spotify:track:3YhcVZIWyakQSTUJD1YMt4,0.507,0.327,3,-9.574,1,0.0286,0.183,0.0,0.11,0.627,169.54
+Here Without You,3 Doors Down,spotify:track:135cNW8kQtiTId7qcsJfVC,0.469,0.67,10,-4.604,0,0.027,0.00815,0.0,0.132,0.158,144.045
+The Art Of Breaking,Thousand Foot Krutch,spotify:track:6W96guiUjEduSKGZoJ4pRk,0.642,0.849,1,-5.196,1,0.0554,0.00253,0.0,0.0717,0.703,107.968
+When In Doubt,Thousand Foot Krutch,spotify:track:3WDre2juz0eyL8LbgUmVWT,0.508,0.955,2,-4.603,1,0.143,0.0023,0.0,0.105,0.395,100.665
+Unbelievable,Thousand Foot Krutch,spotify:track:3g5XSYduDvlgstpGhxjoMb,0.632,0.947,1,-4.518,0,0.152,0.00538,0.0,0.121,0.79,109.892
+Small Town,Thousand Foot Krutch,spotify:track:5n8a18QX7RJWU7j1DtpTlG,0.447,0.716,7,-6.544,1,0.042,0.00189,0.0,0.0889,0.404,156.069
+Enter Sandman,Metallica,spotify:track:1hKdDCpiI9mqz1jVHRKG0E,0.579,0.824,6,-8.71,0,0.03,0.00206,0.00903,0.059,0.635,123.331
+One,Metallica,spotify:track:64Ret7Tf2M8pDE4aqbW2tX,0.444,0.703,7,-9.443,1,0.0641,0.00112,0.0761,0.127,0.419,106.228
+Madame Guillotine,The Scarlet Pimpernel,spotify:track:4pBQ3LtvHofjqAHrL6OBhg,0.571,0.801,4,-6.96,0,0.0484,0.692,2.3e-06,0.108,0.859,119.287
+Into the Fire,Douglas Sills,spotify:track:5a74M9A14XYMZQRWHXKTXm,0.354,0.634,2,-10.975,1,0.202,0.815,3.04e-06,0.108,0.441,82.87
+The Creation of Man,Douglas Sills,spotify:track:5vfvw9HXnn3LYMv8XLPWo4,0.701,0.434,11,-11.025,1,0.208,0.837,0.0,0.262,0.768,93.586
+Falcon in the Dive,Terry Mann,spotify:track:2xfknuaCUIN7UAA2l46UHF,0.494,0.565,1,-9.37,0,0.0417,0.584,2.82e-05,0.0846,0.622,95.997
+Hallelujah,Rufus Wainwright,spotify:track:6JUALLwHnidbO4eM09ArIh,0.479,0.186,9,-7.528,0,0.0302,0.874,0.0,0.114,0.435,71.941
+Now's the Time,Slick Shoes,spotify:track:7uMSEldDoQbpnRENlsCZxg,0.585,0.941,5,-2.002,1,0.0573,0.00199,0.0,0.508,0.607,135.963
+Piano Man,Billy Joel,spotify:track:3FCto7hnn1shUyZL42YgfO,0.334,0.472,0,-8.792,1,0.0277,0.6,3.77e-06,0.317,0.431,179.167
+Pinball Wizard,The Who,spotify:track:60C8zGPTdAAmDshHnMuyfc,0.537,0.716,2,-8.766,1,0.038,0.0192,0.0,0.245,0.452,122.873
+Ace of Spades,Motörhead,spotify:track:1T45V6RDj1vTLFY6Cw4tNf,0.325,0.991,3,-5.254,0,0.197,0.0146,0.000134,0.0928,0.147,140.228
+Comfortably Numb,Pink Floyd,spotify:track:5HNCy40Ni5BZJFw1TKzRsC,0.472,0.366,11,-12.595,0,0.0286,0.15,0.312,0.0837,0.171,127.163
+Won't Get Fooled Again - Remix,The Who,spotify:track:1W1GpfPujmgp2vQqcpUhtU,0.702,0.841,2,-9.837,1,0.045,0.256,0.235,0.0584,0.271,134.919
+Who'll Stop The Rain,Creedence Clearwater Revival,spotify:track:3Bh6uInhcVBVvLraGZdkKD,0.598,0.797,7,-6.793,1,0.0332,0.0424,0.000407,0.0717,0.622,123.566
+No More Mr. Nice Guy,Alice Cooper,spotify:track:5D2eCwqbHcqOnfHOCM6TnV,0.498,0.515,11,-11.985,0,0.0395,0.0936,0.0,0.1,0.616,127.761
+Bed of Nails,Alice Cooper,spotify:track:5XeT9fYCeg1jYithrEni7v,0.252,0.971,10,-5.597,0,0.1,0.00295,5.04e-05,0.528,0.305,137.497
+The Black Widow,Alice Cooper,spotify:track:1XExJX2yD9o5Si6dAlxAto,0.245,0.865,9,-7.159,1,0.172,0.0112,0.0109,0.334,0.547,181.075
+Carry on Wayward Son,Kansas,spotify:track:4DMKwE2E2iYDKY01C335Uw,0.482,0.786,7,-5.735,1,0.032,0.00321,8.88e-05,0.446,0.793,126.755
+Smokin' in the Boy's Room,Brownsville Station,spotify:track:1AIGp3gpj1NXJvh3engmUQ,0.575,0.756,2,-9.414,1,0.0544,0.735,0.0401,0.0755,0.844,127.434
+Dream In Black & White - Now The Truth Can Be Told Album Version,Steve Taylor,spotify:track:1UO3pKI4mBiPXoaPPMlLL3,0.727,0.419,0,-12.273,1,0.0687,0.311,3.43e-06,0.119,0.284,81.04
+"(I've Had) The Time of My Life - From ""Dirty Dancing"" Soundtrack",Bill Medley,spotify:track:4BFMQ15vXr626UOoZL8bUI,0.7,0.781,6,-8.255,0,0.0507,0.0874,0.00342,0.059,0.385,108.695
+Billy Don’t Be A Hero,Paper Lace,spotify:track:48RP92BBNCGybHpdQ8NuIO,0.758,0.477,0,-14.741,1,0.138,0.347,0.0,0.122,0.907,119.507
+Time Warp,Little Nell,spotify:track:4WFeJTXNHIS2wURtwlAkhu,0.387,0.665,1,-11.323,0,0.225,0.145,0.00167,0.092,0.541,174.896
+Wrecking Hotel Rooms,MxPx,spotify:track:4KWWDLTgYHjBxmg27nbLYZ,0.593,0.796,2,-4.771,1,0.0297,0.000125,0.000119,0.161,0.527,125.154
+Punk Rawk Show,MxPx,spotify:track:4BeTldZgaLMFUCeVeBbvwB,0.304,0.978,0,-4.078,1,0.119,0.0202,0.0,0.383,0.365,102.381
+Two Whole Years,MxPx,spotify:track:0E3mUNKgTdbPwjnIbvgBjk,0.366,0.952,9,-3.363,1,0.0636,0.0156,0.0,0.372,0.577,185.393
+Misplaced Memories,MxPx,spotify:track:5lqBrzNdIRUj4mpbUpRBzU,0.33,0.835,11,-4.522,0,0.0407,0.00452,0.0,0.265,0.85,152.746
+Butterfly Kisses,Bob Carlisle,spotify:track:1mwCSKK0YRDsgnj2VwyZSU,0.386,0.364,0,-9.624,1,0.032,0.541,0.0,0.347,0.104,81.895
+All The Small Things,blink-182,spotify:track:7yCPwWs66K8Ba5lFuU2bcx,0.439,0.891,0,-4.764,1,0.057,0.0122,0.0,0.547,0.695,148.599
+First Date,blink-182,spotify:track:1fJFuvU2ldmeAm5nFIHcPP,0.579,0.928,0,-4.344,1,0.0411,0.000715,0.0,0.18,0.882,95.594
+Listen To Your Heart,Roxette,spotify:track:78TnMTAFmWUWWCgNXR7D3K,0.539,0.583,1,-4.935,0,0.0275,0.108,0.0,0.111,0.337,86.063
+"There's a Fine, Fine Line",Stephanie D'Abruzzo,spotify:track:2W7wqrmruKE07zZCg8rSdm,0.497,0.136,7,-10.015,1,0.04,0.884,0.000454,0.114,0.236,129.628
+Mrs. Robinson,The Lemonheads,spotify:track:3672j9qcUufXuGwVoXHaeK,0.495,0.936,4,-7.196,0,0.0401,0.0111,0.000709,0.276,0.837,107.394
+Hallelujah,Pentatonix,spotify:track:550rQQCGkrTzvp4SfpOPzx,0.322,0.377,7,-7.385,0,0.0356,0.454,0.0,0.338,0.366,118.669
+Crash,The Primitives,spotify:track:4tPHC7YsU3LInUYcIe2UIi,0.375,0.6,11,-9.313,1,0.033,0.0966,0.000972,0.759,0.916,169.976
+You're the Inspiration - 2009 Remaster,Chicago,spotify:track:6d7PQZtTbHbcYqaygOW7vs,0.578,0.606,11,-6.402,1,0.0282,0.377,0.0,0.317,0.357,73.912
+Total Eclipse of the Heart,Bonnie Tyler,spotify:track:5prTs2HAw2G4idHZyeFp8o,0.435,0.658,8,-8.179,1,0.0661,0.195,0.0,0.102,0.184,130.276
+The Devil Went Down to Georgia,The Charlie Daniels Band,spotify:track:6gRACp2CvsIhc7hyw8CecQ,0.517,0.535,0,-12.027,1,0.0494,0.131,0.0,0.085,0.933,135.087
+Video Killed The Radio Star,The Buggles,spotify:track:6t1FIJlZWTQfIZhsGjaulM,0.675,0.61,1,-13.811,1,0.085,0.0852,0.0188,0.159,0.344,131.037
+Sweet Home Alabama,Lynyrd Skynyrd,spotify:track:7e89621JPkKaeDSTQ3avtg,0.596,0.605,7,-12.145,1,0.0255,0.181,0.000331,0.0863,0.886,97.798
+Tainted Love,Soft Cell,spotify:track:4GDmAT5ZZyHdBo32UYDIvM,0.519,0.51,0,-8.057,0,0.0352,0.476,0.0,0.292,0.652,144.524
+Everybody Wants To Rule The World,Tears For Fears,spotify:track:4RvWPyQ5RL0ao9LPZeSouE,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067
+"Holding Out for a Hero - From ""Footloose"" Soundtrack",Bonnie Tyler,spotify:track:61UU9qfuXmdFyqCSE7v5gz,0.584,0.813,9,-10.997,0,0.0405,0.0192,1.95e-06,0.0875,0.878,149.676
+21 Guns (feat. The Cast of American Idiot),Green Day,spotify:track:3DnG0TWnSc0fs6quO4sKXU,0.352,0.643,10,-5.115,1,0.0338,0.239,0.0,0.105,0.292,161.995
+When I'm Gone,3 Doors Down,spotify:track:3WbphvawbMZ8FyqDxYGdSQ,0.53,0.768,7,-5.611,1,0.0284,0.00385,0.0,0.103,0.374,148.095
+Little Talks,Of Monsters and Men,spotify:track:2ihCaVdNZmnHZWt0fvAM7B,0.457,0.757,1,-5.177,1,0.032,0.0206,0.0,0.146,0.417,102.961
+Crazy B*tch,Buckcherry,spotify:track:1gtHjIoQIU5XIcRGjn7DfH,0.599,0.977,1,-3.061,0,0.133,0.0257,0.0,0.0866,0.568,97.985
+Breaking the Habit,Linkin Park,spotify:track:6n8TMVyFKoUmDc4apxceRD,0.579,0.849,4,-5.218,0,0.0303,0.108,0.0,0.0909,0.581,100.021
+In the End,Linkin Park,spotify:track:60a0Rd6pjrkxjPbaKzXjfq,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143
+Bleed It Out,Linkin Park,spotify:track:0UFDKFqW2oGspYeYqo9wjA,0.529,0.967,1,-3.647,0,0.0508,0.114,0.0,0.61,0.596,140.127
+Forever In Blue Jeans,Neil Diamond,spotify:track:1K1nzhbKCNmrNXi9B07mPF,0.706,0.39,9,-13.673,1,0.0324,0.0221,3.81e-05,0.0944,0.839,90.584
+Coming to America,Neil Diamond,spotify:track:0WUwK944tQYw6V2OEBbKQj,0.242,0.303,8,-15.987,1,0.0396,0.972,0.907,0.0949,0.149,76.866
+Fidelity,Regina Spektor,spotify:track:6GskIhdM6TN6EkPgeSjVfW,0.923,0.518,5,-6.008,1,0.0492,0.52,0.000142,0.104,0.682,93.023
+Soak Up The Sun,Sheryl Crow,spotify:track:215JYyyUnrJ98NK3KEwu6d,0.717,0.733,4,-4.985,1,0.0427,0.0398,0.0,0.136,0.713,119.996
+Kiss Me I'm #!@'faced,Dropkick Murphys,spotify:track:76JBKwPnXX4SjpTrOMfTNM,0.292,0.912,3,-2.077,1,0.0561,0.00259,0.0,0.0853,0.475,79.298
+Billionaire (feat. Bruno Mars),Travie McCoy,spotify:track:2M9ULmQwTaTGmAdXaXpfz5,0.633,0.673,6,-6.403,0,0.258,0.297,0.0,0.206,0.659,86.776
+Take A Bow,Rihanna,spotify:track:3mmjD9G2HUUzDbFl3NRDLM,0.697,0.467,9,-7.536,1,0.0715,0.248,0.0,0.0941,0.572,82.081
+Beat on the Brat - 2016 Remaster,Ramones,spotify:track:55mKuESqpfgqe0kooIkTH2,0.481,0.88,4,-1.108,1,0.176,0.00305,0.642,0.13,0.961,156.859
+I Don't Care - 2002 Remaster,Ramones,spotify:track:7KbwwsvglWtL4aqVFhFfdG,0.642,0.796,2,-7.981,1,0.0305,0.0804,0.000293,0.169,0.689,136.095
+We Want the Airwaves - 2002 Remaster,Ramones,spotify:track:6x7B9cDXyH4X7lCwH6B40o,0.438,0.979,9,-3.82,0,0.0403,0.0167,0.0408,0.3,0.513,142.912
+I Wanna Be Sedated - 2002 Remaster,Ramones,spotify:track:6vvmYYUvGXtZLU8msxKvzF,0.597,0.96,11,-3.989,1,0.042,0.169,2.89e-05,0.105,0.937,163.017
+53rd & 3rd - Remastered Version,Ramones,spotify:track:3dqu92ZvdxKZTJ8PnRD7rL,0.59,0.828,9,-5.422,1,0.0448,0.0553,0.000307,0.109,0.903,134.936
+Thank You,Ray Boltz,spotify:track:6xvyHB0hRzt4ZUrp3RWz0h,0.393,0.241,7,-13.209,1,0.0346,0.677,0.0,0.108,0.119,125.599
+The Altar,Ray Boltz,spotify:track:59TTPd9hQSLxbfgsrFqX3a,0.371,0.224,7,-13.502,1,0.0299,0.711,0.0,0.242,0.149,130.027
+Watch the Lamb,Ray Boltz,spotify:track:5Kbu6EfNuU8NlH9IiQ9DQp,0.446,0.0382,1,-21.358,1,0.0426,0.823,0.0,0.0979,0.107,121.98
+Rock 'n' Roll High School,Ramones,spotify:track:3iDQWZabT5WtDDLPhPuutK,0.391,0.912,6,-8.624,1,0.133,0.524,0.000315,0.35,0.701,193.782
+Africa,TOTO,spotify:track:2374M0fQpWi3dLnB54qaLX,0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718
+Barbie Girl,Aqua,spotify:track:2ZCTP54O2dMSbVrdsg60to,0.764,0.948,1,-4.355,0,0.0402,0.00929,0.0773,0.416,0.911,129.967
+I Write The Songs,Barry Manilow,spotify:track:5VU6nvX3BqkqBmOJ2d9vhW,0.397,0.381,3,-8.553,1,0.0294,0.835,0.0,0.0829,0.423,148.649
+"Gone, Gone, Gone",Phillip Phillips,spotify:track:5L79aNYCTKiZq7vaOElXYj,0.664,0.642,6,-5.961,1,0.038,0.129,0.0,0.114,0.501,118.002
+Welcome to the Black Parade,My Chemical Romance,spotify:track:5wQnmLuC1W7ATsArWACrgW,0.217,0.905,2,-4.103,1,0.0752,0.000289,0.00011,0.222,0.236,96.95
+Metal Crusade - Instrumental Version,Mortification,spotify:track:5xIztQZYw30ToPbkCmVDqM,0.253,0.574,0,-12.488,1,0.0314,1.22e-05,0.651,0.0466,0.171,82.061
+Papa Was A Rollin' Stone - Single Version,The Temptations,spotify:track:1zC9mSQAH2fn3DGscYRuCY,0.82,0.427,10,-12.728,0,0.0827,0.459,0.0494,0.0447,0.887,121.481
+Just Dropped In (To See What Condition My Condition Is In),Kenny Rogers & The First Edition,spotify:track:1dWvuCErtHSFAuDVzjbLeb,0.575,0.555,9,-12.528,0,0.0465,0.356,0.00149,0.154,0.616,115.003
+Apologize,OneRepublic,spotify:track:6fOPuabPdAJ0HgqJFcDGb1,0.593,0.74,8,-6.12,1,0.0339,0.363,2.22e-05,0.102,0.502,118.008
+Just Give Me a Reason (feat. Nate Ruess),P!nk,spotify:track:1mKXFLRA179hdOWQBwUk9e,0.778,0.547,2,-7.273,1,0.0489,0.346,0.000302,0.132,0.441,95.002
+Poker Face,Lady Gaga,spotify:track:1QV6tiMFM6fSOKOGLMHYYg,0.851,0.806,4,-4.62,1,0.0787,0.118,1.64e-06,0.121,0.787,118.999
+1985,Bowling For Soup,spotify:track:4UuHWIkAWnN176A2rx7YFB,0.607,0.878,4,-4.422,1,0.0665,0.000246,0.0,0.337,0.853,119.955
+"Let It Go - From ""Frozen""/Soundtrack Version",Idina Menzel,spotify:track:0qcr5FMsEO85NAQjrlDRKo,0.543,0.485,8,-6.85,1,0.0305,0.558,0.0,0.12,0.371,136.961
+Graduation (Friends Forever),Vitamin C,spotify:track:45V4Mk7vZV2b9JfSWuUX9m,0.583,0.637,0,-6.464,1,0.0459,0.00722,0.0419,0.177,0.315,80.004
+Youth of the Nation,P.O.D.,spotify:track:0UrWr7Jnu1heq1o99ZwUd0,0.563,0.86,8,-7.533,1,0.0621,0.00834,0.0106,0.39,0.517,97.867
+American Pie,Don McLean,spotify:track:2QgWuCtBpNIpl5trmKCxRf,0.526,0.509,7,-10.893,1,0.0628,0.6,0.0,0.144,0.497,138.318
+The Loco-Motion - Remastered 2002,Grand Funk Railroad,spotify:track:0PxYWaGiwWtcuL1VIMiEW4,0.456,0.933,0,-5.212,1,0.153,0.375,0.0,0.563,0.367,125.051
+Cats in the Cradle,Harry Chapin,spotify:track:6hLqEJg2GnnDG4W0Y64hyD,0.463,0.484,10,-13.259,1,0.0395,0.456,0.0,0.125,0.513,77.521
+Blinded By The Light (Single edit),Manfred Mann's Earth Band,spotify:track:6jkNs6ZRiLjIk87MWmSGWu,0.594,0.561,5,-11.666,1,0.0603,0.524,0.00222,0.0724,0.617,140.286
+Reunited,Peaches & Herb,spotify:track:2Y18kxNc1F6Ut6t5eyKsRD,0.607,0.462,5,-10.004,0,0.0287,0.614,8.42e-06,0.0724,0.346,75.752
+Escape (The Pina Colada Song),Rupert Holmes,spotify:track:5IMtdHjJ1OtkxbGe4zfUxQ,0.836,0.509,0,-13.668,1,0.0548,0.467,4.1e-06,0.0436,0.949,138.714
+"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,spotify:track:3gdewACMIVMEWVbyb8O9sY,0.601,0.532,10,-9.119,1,0.0286,0.432,6.25e-06,0.0925,0.341,136.571
+Coming to America (Originally Performed by Neil Diamond) [Vocal Version],Mega Tracks Karaoke Band,spotify:track:6hQEX21Gojb06Ye29ELIQw,0.578,0.492,0,-12.713,1,0.0296,0.0096,9.11e-05,0.256,0.202,126.823
+You May Be Right,Billy Joel,spotify:track:7gMOe0gXYcELUoVugfMmHP,0.567,0.945,9,-7.243,1,0.0458,0.175,2.6e-06,0.35,0.961,150.792
+Only the Good Die Young,Billy Joel,spotify:track:4gehZ6WYqLOXZpmMEq3Em9,0.519,0.875,0,-6.488,1,0.132,0.223,0.0,0.0915,0.766,152.092
+The Entertainer,Billy Joel,spotify:track:60m29Z8TtocKOqDlQEbwUS,0.611,0.912,0,-6.775,1,0.0398,0.105,0.0,0.117,0.77,101.307
+The Longest Time,Billy Joel,spotify:track:5DH7nDryMhpixm4G4B7RP9,0.637,0.333,3,-9.603,1,0.0262,0.181,0.0,0.147,0.588,84.347
+We Didn't Start the Fire,Billy Joel,spotify:track:3Cx4yrFaX8CeHwBMReOWXI,0.712,0.967,7,-5.206,1,0.047,0.0771,0.0,0.356,0.895,145.024
+Saturday Night,Bay City Rollers,spotify:track:78zYiMv9yNTHgmm6kaUPCm,0.514,0.681,7,-10.026,1,0.065,0.199,0.0356,0.0745,0.913,136.821
+Don't Go Breaking My Heart,Elton John,spotify:track:7cKUyLDvGKMd12ovtOU0z5,0.725,0.838,5,-9.063,1,0.0355,0.18,2.36e-06,0.112,0.746,131.478
+Play That Funky Music,Wild Cherry,spotify:track:0D7L4pBEGv8ni1cRfaTdMJ,0.822,0.87,9,-6.257,1,0.0592,0.124,0.0,0.045,0.901,109.174
+Your Heroes Are Dead,Project 86,spotify:track:2Jer3BnbQIcIFsVDg6wbkA,0.504,0.797,10,-4.305,1,0.0493,0.000105,0.148,0.0393,0.654,97.547
+Dreamer,Ozzy Osbourne,spotify:track:78PKCefXwDLbl4FVO1Pjzh,0.493,0.636,1,-7.408,1,0.0256,0.0629,2.49e-06,0.0921,0.279,79.419
+One (Is the Loneliest Number),The Tao Of Groove,spotify:track:3I9LiI3us93jBM5o1yheUk,0.789,0.494,4,-9.496,0,0.0324,0.407,0.808,0.226,0.781,120.025
+The First Cut Is the Deepest - Acoustic Version,Sheryl Crow,spotify:track:4PzPvpE63ttEbKyMDRWB6q,0.638,0.336,2,-7.52,1,0.0248,0.759,0.0,0.0728,0.567,78.86
+Bye Bye Beautiful,Nightwish,spotify:track:2eH4Gr5hftdzWsVPG5dild,0.488,0.88,9,-5.158,1,0.045,0.000121,0.000783,0.103,0.389,148.051
+Amaranth,Nightwish,spotify:track:0cYduKz7njWaJ73PGn6OGW,0.553,0.874,2,-3.685,0,0.0401,0.00388,0.00184,0.104,0.319,127.961
+Eva,Nightwish,spotify:track:0lnVq02DwGozJDsFrri7Ei,0.42,0.377,6,-7.203,0,0.0264,0.339,0.000123,0.166,0.0969,103.989
+Meadows Of Heaven,Nightwish,spotify:track:0m6WZpB4ky6Mrx4NGkwQL7,0.369,0.433,7,-6.67,0,0.0331,0.04,0.000517,0.109,0.069,119.984
+Wish I Had An Angel,Nightwish,spotify:track:68VaQ8E7fhveKNkEIdD7Q9,0.424,0.944,4,-6.031,0,0.0576,9.82e-06,0.065,0.345,0.502,158.997
+Rio - US Edit,Duran Duran,spotify:track:68x0eW1iIqXU0exrafu8Ti,0.563,0.869,9,-8.163,1,0.052,0.0235,1.14e-05,0.2,0.716,140.587
+Just Give Me a Reason (feat. Nate Ruess),P!nk,spotify:track:4VC5nFbYO4avKksJ9jN4pY,0.778,0.547,2,-7.273,1,0.0489,0.346,0.000302,0.132,0.441,95.002
+Blow Me (One Last Kiss),P!nk,spotify:track:0ald9Hqm3CG03WWHUOgFoo,0.587,0.924,7,-2.918,1,0.041,0.000133,0.0,0.285,0.746,113.998
+Baby Got Back,Sir Mix-A-Lot,spotify:track:4vvOv6MDFFPpEb1gwwb2ZD,0.937,0.654,8,-11.187,1,0.322,0.00533,1.26e-06,0.0542,0.607,128.462
+Numb,Linkin Park,spotify:track:2nLtzopw4rPReszdYBJU6h,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018
+Stronger (What Doesn't Kill You),Kelly Clarkson,spotify:track:6D60klaHqbCl9ySc8VcRss,0.562,0.939,0,-4.282,1,0.0475,0.046,0.0,0.112,0.684,116.044
+Diamonds,Rihanna,spotify:track:7Kt59L2ZZGtOnIhvMwzG6f,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972
+Bad Romance,Lady Gaga,spotify:track:1CZOrmHUUjeDP7N2B4Ba6S,0.696,0.921,0,-3.755,1,0.0363,0.00314,5.24e-05,0.0842,0.714,119.001
+Demons,Imagine Dragons,spotify:track:3LlAyCYU26dvFZBDUIMb7a,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.329,0.428,89.938
+Let Her Go,Passenger,spotify:track:3f5NR54YGbEi4kVF5ORMt1,0.479,0.545,7,-7.346,1,0.0688,0.365,0.0,0.0963,0.244,74.897
+One More Night,Maroon 5,spotify:track:4XNrMwGx1SqP01sqkGTDmo,0.718,0.82,5,-3.453,0,0.0323,0.0444,0.0,0.0846,0.613,92.998
+Burn,Ellie Goulding,spotify:track:2GgxS8bUT5G25QJTsfSv0R,0.559,0.777,1,-5.031,1,0.0432,0.31,0.0,0.105,0.329,87.016
+Counting Stars,OneRepublic,spotify:track:6sy3LkhNFjJWlaeSMNwQ62,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.115,0.477,122.017
+Give Your Heart a Break,Demi Lovato,spotify:track:3gCDFNnyBoPP5rkBAn8EAR,0.651,0.695,6,-3.218,1,0.0487,0.23,0.0,0.144,0.569,123.008
+Hello,Adele,spotify:track:4aebBr4JAihzJQR0CiIZJv,0.47,0.431,5,-6.129,0,0.0342,0.329,0.0,0.0854,0.289,157.98
+Before He Cheats,Carrie Underwood,spotify:track:0ZUo4YjG4saFnEJhdWp9Bt,0.519,0.749,6,-3.318,0,0.0405,0.271,0.0,0.119,0.29,147.905
+Heathens,Twenty One Pilots,spotify:track:6i0V12jOa3mr6uu4WYhUBr,0.732,0.396,4,-9.348,0,0.0286,0.0841,3.58e-05,0.105,0.548,90.024
+Waterfalls,TLC,spotify:track:6qspW4YKycviDFjHBOaqUY,0.769,0.505,1,-7.345,1,0.0829,0.311,7.49e-05,0.0777,0.757,171.804
+Clint Eastwood,Gorillaz,spotify:track:4wWfO3quW5mDQZTiYeNnqS,0.662,0.716,10,-7.575,0,0.16,0.028,0.0,0.0727,0.548,167.947
+Welcome Home - EP Version,Radical Face,spotify:track:5Z0yHorrDg5GqRpje4SKRy,0.598,0.488,6,-10.905,1,0.0307,0.741,0.779,0.0945,0.396,144.977
+Gossip Folks (feat. Ludacris),Missy Elliott,spotify:track:75DjPjiIp2fvJDjtt41Jfs,0.707,0.538,0,-5.264,1,0.505,0.362,0.0,0.317,0.439,121.732
+Fuck You,CeeLo Green,spotify:track:4ycLiPVzE5KamivXrAzGFG,0.69,0.834,0,-5.79,1,0.0566,0.129,0.0,0.136,0.738,127.43
+Music,Madonna,spotify:track:27cXevtj5VflsCUAZwr9eI,0.738,0.852,7,-6.13,1,0.0766,0.00153,0.0895,0.178,0.834,119.735
+The Lion Sleeps Tonight,Jay Siegel's Tokens,spotify:track:1vndnK1pWEylzsx9PPw3nK,0.366,0.598,5,-8.272,1,0.0425,0.434,0.0,0.124,0.552,135.597
+Down By The Water,The Decemberists,spotify:track:7IxWqdG1zG0gaAFYq2q0Iy,0.487,0.81,4,-4.067,0,0.0357,0.000754,0.0,0.352,0.702,123.493
+Who Are You,The Who,spotify:track:02DurCgOvDdX0uKEjqcl3W,0.653,0.631,9,-11.334,1,0.0461,0.299,0.00265,0.0627,0.516,156.32
+Old Time Rock and Roll,Sam Morrison and Turn The Page,spotify:track:6Hyi9dmoyyDmxYEOUxGqBs,0.728,0.921,5,-3.302,1,0.0323,0.05,7.92e-06,0.137,0.936,124.143
+Hot Patootie (Bless My Soul) What Ever Happened to Saturday Night,Adam Lambert,spotify:track:4zwGFFad49bSLJQxGQ4wWH,0.486,0.918,11,-4.181,0,0.125,0.0121,0.00372,0.0697,0.734,164.038
+Karma Chameleon,Culture Club,spotify:track:48O0GrGJWml3DzHhC5sJ7a,0.676,0.577,10,-12.031,1,0.0365,0.186,0.0,0.148,0.934,91.98
+Try,P!nk,spotify:track:01DSvNTUsVROjnSF5j3UbD,0.673,0.629,2,-7.072,1,0.0299,0.00141,0.0,0.0944,0.551,103.998
+In the Ghetto,Elvis Presley,spotify:track:6csLL0MBNVIMx19PfsKsW7,0.477,0.415,10,-10.592,1,0.0313,0.754,0.00356,0.104,0.418,87.907
+All Summer Long,Kid Rock,spotify:track:5rX6C5QVvvZB7XckETNych,0.7,0.864,7,-3.629,1,0.0283,0.0212,0.0,0.0956,0.887,102.997
+Lean on Me,Bill Withers,spotify:track:20kN7bu0HMO8rIVY6tEytW,0.621,0.246,0,-11.162,1,0.0598,0.81,1.21e-05,0.133,0.452,75.093
+I Don't Wanna Be In Love (Dance Floor Anthem),Good Charlotte,spotify:track:3AJk0zltdY4XjD2be7a7ss,0.642,0.875,6,-3.14,1,0.042,0.0233,0.0,0.19,0.556,124.946
+I'm Not Okay (I Promise),My Chemical Romance,spotify:track:7lRlq939cDG4SzWOF4VAnd,0.21,0.94,9,-3.427,1,0.123,0.00602,0.0,0.269,0.255,179.722
+Girls & Boys,Good Charlotte,spotify:track:65mxB9IWpmVo4qUjdGSxRB,0.663,0.72,3,-5.497,1,0.0331,0.00212,0.0,0.358,0.608,135.342
+Amnesia,Chumbawamba,spotify:track:3WiXr3CXD3jYSqmQlUYlnn,0.663,0.776,6,-8.111,1,0.0417,0.0155,0.292,0.0885,0.444,124.731
+Tubthumping,Chumbawamba,spotify:track:5YScXJKtefsgdskIy60N7A,0.263,0.871,2,-7.496,1,0.131,0.106,0.0,0.363,0.622,206.68
+Tell It to My Heart,Taylor Dayne,spotify:track:6jJCk7oHNwyowOUaF3gXEu,0.677,0.985,1,-4.678,1,0.0549,0.07,3.62e-05,0.351,0.87,118.092
+Dirty Deeds Done Dirt Cheap,AC/DC,spotify:track:2d4e45fmUnguxh6yqC7gNT,0.668,0.906,11,-4.881,0,0.17,0.214,0.00245,0.135,0.507,135.653
+"White Wedding - Live On VH1 Storytellers, New York City, New York/2001",Billy Idol,spotify:track:6lkCnFeziGpvbsMcAB2DoR,0.488,0.481,6,-9.514,0,0.0397,0.769,3.33e-06,0.877,0.556,155.507
+Ridin' Dirty,Danny Dove,spotify:track:1XdWLLUhP3r8X9W4OB6TCy,0.797,0.782,1,-5.69,0,0.103,0.0013,0.00155,0.0491,0.377,121.019
+Get Low,Lil Jon & The East Side Boyz,spotify:track:0r2Bul2NuCViraT2zX1l5j,0.521,0.625,1,-7.47,1,0.067,0.0301,0.0,0.121,0.136,101.019
+Gangsta's Paradise (feat. L.V.),Coolio,spotify:track:3u9fHuAtjMY1RW2mZfO4Cf,0.641,0.63,8,-6.393,1,0.0521,0.0372,0.0,0.4,0.415,79.955
+Bohemian Rhapsody - Remastered 2011,Queen,spotify:track:7tFiyTwD0nx5a1eklYtX2J,0.392,0.402,0,-9.961,0,0.0536,0.288,0.0,0.243,0.228,143.883
+It's My Life,Bon Jovi,spotify:track:0v1XpBHnsbkCn7iJ9Ucr1l,0.551,0.913,0,-4.063,0,0.0466,0.0263,1.35e-05,0.347,0.544,119.992
+Life Could Be A Dream,Street Corner Renaissance,spotify:track:1v6CmIvbcquM8rKR33Kc6e,0.616,0.455,6,-5.946,1,0.045,0.886,0.0,0.134,0.762,126.049
+He Reigns,Newsboys,spotify:track:4mzm2S7WzWJWcTVEut18rB,0.56,0.653,0,-6.282,1,0.0468,0.413,1.19e-06,0.0971,0.655,182.37
+Breakfast,Newsboys,spotify:track:2vLxjS0U2CuaqxEossXLDS,0.44,0.901,9,-4.733,1,0.0598,0.0531,0.000361,0.927,0.519,202.389
+Devils,Say Hi,spotify:track:0Aizdb8F5NdFvDCZ1OnB1i,0.772,0.526,0,-8.723,1,0.0701,0.649,2.88e-06,0.125,0.566,124.071
+"Go And Sin No More - With Embedded Track ""Psalm 139""",Rebecca St. James,spotify:track:1cCIrVaU7hlazMLkjFjcFX,0.555,0.835,0,-4.712,0,0.0408,0.0329,2.34e-05,0.0937,0.476,98.007
+Cum on Feel the Noize,Quiet Riot,spotify:track:3vV3cr2TpPqFk07zxYUbla,0.409,0.92,11,-5.439,0,0.12,0.00719,0.00105,0.0823,0.37,145.085
+Here I Go Again,Whitesnake,spotify:track:29pzjF6ZkzcW3ofgOVbF0t,0.213,0.634,4,-12.967,0,0.0596,0.369,0.00199,0.359,0.354,174.443
+Ready Or Not,DeGarmo & Key,spotify:track:1RDRwPXAP6hSxBIa41wN2w,0.759,0.568,9,-12.67,1,0.0312,0.137,0.00312,0.228,0.647,122.372
+"Johnny, I Hardly Knew Ya",Dropkick Murphys,spotify:track:7qjKgC94B30FRoOcHnMrfx,0.334,0.974,11,-2.311,0,0.1,0.00869,0.0,0.37,0.33,102.823
+Du hast,Rammstein,spotify:track:1dS1SUD3vr0McKwez9MqAY,0.638,0.918,9,-6.294,0,0.0385,0.00437,0.0706,0.331,0.723,125.066
+Ich will,Rammstein,spotify:track:1SlMYQmLe0yNEvBIfaPTAW,0.648,0.896,2,-4.254,1,0.041,0.00138,0.000819,0.0879,0.468,128.115
+Engel,Rammstein,spotify:track:1MWaSUHDZBjPrsyaVxruqx,0.638,0.664,2,-5.767,1,0.0294,0.00872,0.00451,0.173,0.323,96.078
+Another Saturday Night,Yusuf / Cat Stevens,spotify:track:3d6BLhDLG07jgUuTgJ1crq,0.753,0.863,5,-7.084,1,0.113,0.613,7.03e-06,0.0478,0.964,139.964
+17 Magazine,Relient K,spotify:track:5Vgzb4ViXEAvgVgCMexO98,0.512,0.724,7,-4.752,1,0.045,0.00398,8.88e-06,0.101,0.836,164.292
+The Sun Also Rises,Brave Saint Saturn,spotify:track:1riMbTj6HbiQ0tpD1aRema,0.698,0.863,4,-2.133,1,0.0474,0.0124,0.0,0.128,0.952,111.987
+Binary,Brave Saint Saturn,spotify:track:1PZ2EyaidWiuFI6T6lvaPw,0.659,0.714,3,-3.688,1,0.0263,0.0213,1.14e-06,0.0891,0.184,80.961
+Two Sets of Jones',Big Tent Revival,spotify:track:2fRSNaAEfM2s2Ng9KLYAbZ,0.438,0.401,3,-9.631,1,0.0317,0.319,0.0,0.234,0.322,172.89
+Take Me To Your Leader,Newsboys,spotify:track:4RHsQ5GU8r4UZmz4yXp50C,0.424,0.871,2,-5.606,1,0.0909,0.0165,0.0,0.193,0.797,184.864
+Seven Bridges Road - Live; 1999 Remaster,Eagles,spotify:track:1osAmhnIT0rtuqLZ1IliBQ,0.356,0.331,7,-11.065,1,0.0435,0.445,0.0,0.891,0.263,111.995
+Walk Like an Egyptian,The Bangles,spotify:track:1Jwc3ODLQxtbnS8M9TflSP,0.724,0.891,11,-7.818,1,0.0995,0.00344,4.72e-05,0.3,0.818,103.022
+A Girl Like You,Edwyn Collins,spotify:track:6XOINCZBv8Q7RXgNNiTwIN,0.619,0.781,5,-7.455,0,0.0393,0.0243,0.000286,0.402,0.533,126.267
+Wonderwall - Remastered,Oasis,spotify:track:5wj4E6IsrVtn8IBJQOd0Cl,0.372,0.865,2,-4.918,1,0.0381,0.000453,0.0,0.234,0.478,174.53
+Kiss from a Rose,The Arrival,spotify:track:32VpEzX4WLd2SDFJrbmWbL,0.415,0.748,1,-5.294,1,0.0341,0.000212,0.000101,0.529,0.338,131.892
+You Sexy Thing - Remix,Hot Chocolate,spotify:track:7lF0hDHOk5sa1Ml2fafN9J,0.688,0.843,5,-6.231,0,0.0486,0.0506,0.000764,0.321,0.867,106.516
+As I Lay Me Down,Sophie B. Hawkins,spotify:track:6S8ZXzeXsfCj8qi9179McI,0.519,0.737,10,-8.7,1,0.0437,0.645,1.77e-06,0.271,0.668,82.999
+Sinnerman,Nina Simone,spotify:track:75lnIEQ3aQmKPES7V9UWA1,0.436,0.529,11,-13.818,0,0.103,0.636,1.22e-05,0.0849,0.685,147.361
+Sweet Child O' Mine,Guns N' Roses,spotify:track:4MhTFsyqIJnjsOweVcU8ug,0.449,0.901,6,-7.711,1,0.0526,0.141,0.0675,0.128,0.696,125.148
+Brown Eyed Girl,Van Morrison,spotify:track:3yrSvpt2l1xhsV9Em88Pul,0.491,0.583,7,-10.964,1,0.0376,0.185,0.0,0.406,0.908,150.566
+Where I Come From,Alan Jackson,spotify:track:6ej1QJ8eIYmhsyTlvgDajy,0.726,0.631,11,-8.136,0,0.0334,0.22,0.0,0.193,0.746,124.711
+What Was I Thinkin',Dierks Bentley,spotify:track:0r8iDf65NHgFgZOGLwj5r8,0.551,0.825,5,-6.24,0,0.044,0.152,6.2e-06,0.0999,0.933,164.857
+The Rose,Bette Midler,spotify:track:5iUzEn2QzBW0KEWNQO1KQC,0.258,0.0971,0,-13.002,1,0.0302,0.94,0.0,0.122,0.0767,65.346
+Every Rose Has Its Thorn - Remastered 2003,Poison,spotify:track:43GS3mtezoIFiuIZCLLiDY,0.533,0.637,6,-5.571,1,0.0323,0.16,1.12e-05,0.369,0.292,140.167
+"Six, Six, Six - Remix",DeGarmo & Key,spotify:track:4Xaxo87vsoPM0xF6UwcuaD,0.725,0.528,9,-11.269,0,0.0283,0.158,9.9e-05,0.105,0.544,98.598
+You Are Loved,Altar Boys,spotify:track:1MITsJMvdf4RKlhwmcuPEM,0.505,0.868,0,-10.796,1,0.0436,0.0795,0.0,0.318,0.742,145.294
+Breakeven,The Script,spotify:track:38xWaVFKaxZlMFvzNff2aW,0.627,0.699,10,-4.504,1,0.0244,0.174,0.0,0.0789,0.535,94.003
+MMMBop,Hanson,spotify:track:0YYbQESOOReEZjVzbYJtMC,0.685,0.948,9,-5.182,1,0.0457,0.00513,0.00347,0.17,0.628,104.881
+Hearts Lost In Nowhere,Altar Boys,spotify:track:0V5YXAdzGswarumTwkeAz3,0.356,0.793,9,-10.729,1,0.0806,0.000603,3.34e-05,0.121,0.633,190.29
+Live Like You Were Dying,Tim McGraw,spotify:track:5uaTGZyDMK1iZ9eW1qeBEX,0.416,0.546,7,-7.728,1,0.0297,0.492,0.0,0.0845,0.418,159.929
+You're No Good,Linda Ronstadt,spotify:track:23DZLSxCK6kM8FF2RlzKDl,0.669,0.52,8,-10.136,1,0.0345,0.245,0.00535,0.126,0.634,104.812
+For Those About to Rock (We Salute You),AC/DC,spotify:track:17lu4tymfnhmcIDlzBbtAb,0.37,0.919,4,-5.721,1,0.102,0.000376,0.419,0.49,0.471,134.021
+Schadenfreude,Natalie Venetia Belcon,spotify:track:0fajMX89sy4Z2fGq2GxxHq,0.622,0.496,2,-6.064,1,0.207,0.7,0.0,0.106,0.561,149.165
+Paradise By the Dashboard Light,Meat Loaf,spotify:track:2g7gviEeJr6pyxO7G35EWQ,0.326,0.872,2,-7.602,1,0.122,0.214,0.0,0.461,0.492,173.381
+Water,Pentatonix,spotify:track:0AMydQFel4RVQbIN30Fjik,0.335,0.579,2,-6.98,0,0.0632,0.277,0.0,0.0606,0.404,80.317
+Bohemian Rhapsody,Pentatonix,spotify:track:0lrkMvRttmoXjMNS8YONvj,0.341,0.42,8,-6.567,1,0.0318,0.183,0.0,0.0967,0.306,145.808
+Can't Help Falling In Love,Pentatonix,spotify:track:1xKScU3i8ho0OIhNoC5YW9,0.272,0.16,9,-9.947,1,0.0323,0.729,0.0,0.18,0.142,98.612
+God Bless The U.S.A.,Lee Greenwood,spotify:track:623lYBOJ7bLwh1bu3yeN5V,0.299,0.422,5,-9.977,1,0.0285,0.0873,0.0,0.182,0.168,67.797
+"Take Me Home, Country Roads - Rerecorded",John Denver,spotify:track:2xYlyywNgefLCRDG8hlxZq,0.255,0.43,9,-12.564,1,0.0322,0.546,1.87e-05,0.188,0.546,164.267
+Blowin' in the Wind,Bob Dylan,spotify:track:18GiV1BaXzPVYpp9rmOg0E,0.38,0.0993,2,-20.567,1,0.0509,0.914,2.32e-05,0.0605,0.44,174.874
+Sweet Caroline,Neil Diamond,spotify:track:3298yRJKPcCndQdNiTZKIo,0.538,0.127,11,-16.057,1,0.0284,0.589,0.00017,0.238,0.527,62.829
+"Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",Eric Clapton,spotify:track:612VcBshQcy4mpB2utGc3H,0.695,0.336,9,-12.999,1,0.0313,0.8,0.00264,0.701,0.422,79.109
+Home Sweet Home,Mötley Crüe,spotify:track:4zXvB4MoQD8onk0NCZbeHG,0.403,0.777,5,-6.416,1,0.0354,0.0999,3.28e-06,0.124,0.149,76.329
+Tears In Heaven (Feat. Kenny G),Joe Gransden,spotify:track:3vCU1OjK02CGtHbINKnVU4,0.495,0.349,0,-9.926,0,0.0246,0.798,0.707,0.103,0.152,77.971
+Have You Ever Seen The Rain?,Creedence Clearwater Revival,spotify:track:4JuJ9ewGWWGy0U3URuXOSI,0.741,0.697,0,-7.028,1,0.0277,0.0664,2.28e-05,0.133,0.774,116.109
+"Girl, You'll Be A Woman Soon",Urge Overkill,spotify:track:1HRJZBTXS3VZr59Py8oIcz,0.524,0.572,5,-13.306,1,0.0413,0.0627,0.000133,0.208,0.607,114.182
+Jack & Diane,John Mellencamp,spotify:track:43btz2xjMKpcmjkuRsvxyg,0.811,0.41,9,-8.214,1,0.0391,0.0365,6.63e-06,0.0799,0.626,103.965
+Happy Days (Theme from ''Happy Days''),Pratt & McClain,spotify:track:1CCuMgDauGruOwxrSh9NSW,0.591,0.706,5,-12.115,1,0.0552,0.043,0.00172,0.231,0.915,95.762
+Mercy Seat - I Just Want You Album Version,Vicki Yohe,spotify:track:4JkClDpEz5wUQsl6HnKxyH,0.543,0.577,4,-5.842,0,0.0404,0.483,0.0,0.263,0.179,142.04
+The Unforgiven,Metallica,spotify:track:5SnOyuBtyzufoXBAKOdcxD,0.539,0.597,7,-9.581,1,0.0258,0.0108,0.00552,0.134,0.251,139.444
+It's Just a Little Crush,Anything But Monday,spotify:track:4LjIwJj7G4cKzVSsmnC9Pz,0.73,0.751,11,-6.272,0,0.0343,0.0726,0.179,0.168,0.924,127.987
+Joy To The World,Three Dog Night,spotify:track:2ymeOsYijJz09LfKw3yM2x,0.649,0.679,2,-12.515,1,0.0316,0.464,0.00121,0.339,0.971,126.867
+Fuck Her Gently,Tenacious D,spotify:track:4BVzMXl6fgEC82DpjTZD0T,0.521,0.297,2,-7.022,1,0.0351,0.732,0.0,0.273,0.517,118.681
+Someone Saved My Life Tonight,Elton John,spotify:track:5i7z7K3YuFCGbYIn6OzrpA,0.458,0.446,1,-8.82,1,0.0279,0.334,6.28e-06,0.195,0.159,130.062
+Cleveland Rocks,The Presidents Of The United States Of America,spotify:track:5rsiXpifJ6NLCpdhTgOWU6,0.438,0.816,1,-7.573,1,0.0564,0.0171,0.0,0.382,0.644,148.244
+Karaoke Superstars,Superchick,spotify:track:1ZqUyaaOb7vAeY2yF7EsOw,0.678,0.869,8,-5.788,1,0.0595,0.0368,0.0,0.524,0.644,131.98
+Beautiful,Christina Aguilera,spotify:track:3TCauNPqFiniaYHBvEVoHG,0.456,0.573,5,-3.866,0,0.0275,0.578,3.05e-06,0.114,0.0992,76.19
+Kiss from a Rose,Seal,spotify:track:3YKptz29AsOlm7WAVnztBh,0.584,0.533,10,-7.11,0,0.0305,0.684,0.0,0.306,0.224,131.745
+Thunderstruck,The Fanatics,spotify:track:6viFwYWKQrRc49vmg8Sqod,0.613,0.656,9,-9.849,1,0.0404,0.000977,0.000224,0.328,0.177,133.042
+Jenny 867-5309,Prozac Daisies,spotify:track:2AIuvOKTzT3MFi3q8xwAk6,0.516,0.865,6,-3.576,0,0.0433,0.000138,0.0193,0.488,0.599,133.918
+I'm a Believer - 2006 Remaster,The Monkees,spotify:track:3G7tRC24Uh09Hmp1KZ7LQ2,0.526,0.775,0,-6.05,1,0.0352,0.707,2.05e-05,0.217,0.962,80.106
+Beds Are Burning,Midnight Oil,spotify:track:0XHGKdViVybbZKqEZ2tXqV,0.758,0.41,0,-11.8,1,0.0404,0.013,0.000101,0.0875,0.339,119.197
+Eternal Flame,The Bangles,spotify:track:5MoDQWMDMaAGDEiWsJfeCi,0.526,0.358,4,-7.239,0,0.0243,0.525,0.0,0.0942,0.399,78.989
+It Ain't What You Do It's the Way That You Do It,Fun Boy Three,spotify:track:4wQJLFN6BU0ptUoe0T2lcO,0.684,0.559,5,-11.366,0,0.168,0.358,0.0427,0.641,0.892,179.556
+Wanted Dead Or Alive,Bon Jovi,spotify:track:2fY6tqgrlrg1ky9fgs0t5u,0.257,0.803,7,-3.886,1,0.0411,0.137,0.0156,0.297,0.294,150.818
+Son of a Preacher Man,Aretha Franklin,spotify:track:4uCbetXW9LStYPUjCpBVp9,0.474,0.473,2,-11.454,1,0.0601,0.545,1.25e-06,0.0356,0.561,77.583
+For What It's Worth,Buffalo Springfield,spotify:track:1qRA5BS78u3gME0loMl9AA,0.653,0.519,2,-10.164,1,0.0497,0.406,0.0209,0.101,0.822,98.883
+Piece of My Heart,Big Brother & The Holding Company,spotify:track:1xKQbqQtQWrtQS47fUJBtl,0.443,0.727,4,-7.951,1,0.145,0.263,0.000141,0.169,0.566,160.82
+I'll Have To Say I Love You In A Song,Jim Croce,spotify:track:4TjrIZw2QxJxbVjdc3XKsj,0.526,0.545,9,-11.673,1,0.028,0.65,0.000612,0.106,0.733,134.053
+My Name Is,Eminem,spotify:track:75IN3CtuZwTHTnZvYM4qnJ,0.869,0.68,1,-6.233,1,0.318,0.0416,1.12e-06,0.0914,0.815,85.519
+"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,spotify:track:5Z01UMMf7V1o0MzF86s6WJ,0.692,0.744,2,-4.565,1,0.257,0.00868,0.000423,0.359,0.0612,171.374
+Do You Remember?,Jessiah A. Yoder,spotify:track:3h9qgV3NrVvlECvLtWJB0e,0.697,0.549,7,-12.379,1,0.031,0.51,0.00299,0.0581,0.954,139.995
+Minnie the Moocher,C&C Productions,spotify:track:0ZmN7HFQj7AHicpzPDN6KD,0.597,0.543,9,-6.336,0,0.0549,0.074,0.0,0.372,0.688,103.487
+Someone Like You,Adele,spotify:track:4kflIGfjdZJW4ot2ioixTB,0.559,0.33,9,-8.251,1,0.0285,0.892,0.0,0.0975,0.285,135.109
+No Type,Rae Sremmurd,spotify:track:4scpF6J5uMBvoh6sFB7EL1,0.891,0.486,6,-7.803,1,0.159,0.0158,3.78e-06,0.0925,0.239,125.01
+"Boulevard of Broken Dreams - Live at Milton Keynes National Bowl, Milton Keynes, England, 6/18/05",Green Day,spotify:track:224kL7H7v6VhHYK3yqxiha,0.259,0.983,8,-3.523,1,0.0869,0.0583,0.000298,0.972,0.375,166.81
+Ain't That A Kick In The Head,Dean Martin,spotify:track:7D2jhjVZsU4NXO8HxVG3aA,0.594,0.399,2,-10.012,1,0.0549,0.773,0.0,0.366,0.83,131.797
+Badd,Ying Yang Twins,spotify:track:1Epb6Kfe3GTgKrrWs1Y4Wy,0.585,0.697,1,-6.126,0,0.357,0.0339,0.0,0.255,0.402,133.177
+Candle In The Wind - Remastered 2014,Elton John,spotify:track:1L9fzw2pXprOqtemTwtxXF,0.602,0.536,4,-9.74,1,0.0288,0.183,1.9e-05,0.0802,0.506,124.558
+The Lion Sleeps Tonight (Wimoweh),The Tokens,spotify:track:2F4FNcz68howQWD4zaGJSi,0.321,0.474,5,-9.383,1,0.0348,0.743,0.0,0.204,0.804,121.199
+Can You Feel The Love Tonight,Elton John,spotify:track:67HKtdqchK0rmODxsBeWT8,0.297,0.364,10,-9.261,1,0.0305,0.813,0.000761,0.0976,0.149,122.598
+Hotel California - 2013 Remaster,Eagles,spotify:track:40riOy7x9W7GXjyGp4pjAv,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125
+In The Air Tonight - 2015 Remastered,Phil Collins,spotify:track:18AXbzPzBS8Y3AkgSxzJPb,0.446,0.239,0,-13.945,1,0.0316,0.551,4.1e-06,0.0697,0.298,189.507
+Uptown Girl,Billy Joel,spotify:track:5zA8vzDGqPl2AzZkEYQGKh,0.701,0.944,4,-2.986,1,0.0455,0.0755,0.0,0.601,0.792,128.993
+Ain't No Mountain High Enough,Marvin Gaye,spotify:track:2H3ZUSE54pST4ubRd5FzFR,0.669,0.616,11,-10.776,0,0.033,0.482,0.0,0.179,0.818,130.037
+Let It Be - Remastered,The Beatles,spotify:track:5V1AHQugSTASVez5ffJtFo,0.443,0.403,0,-8.339,1,0.0322,0.631,0.0,0.111,0.41,143.462
+Jessie's Girl,Rick Springfield,spotify:track:5RsUlxLto4NZbhJpqJbHfN,0.727,0.834,2,-5.851,1,0.0496,0.165,0.0,0.105,0.816,131.7
+Fly Me To The Moon (In Other Words),Frank Sinatra,spotify:track:5b7OgznPJJr1vHNYGyvxau,0.668,0.26,7,-14.256,1,0.0523,0.453,0.0,0.0621,0.368,119.416
+Lookin' Out My Back Door,Creedence Clearwater Revival,spotify:track:3RTUfvRgq3pYTf7XY0FIcS,0.745,0.656,10,-6.393,1,0.0405,0.188,0.00337,0.0941,0.858,105.318
+Bridge Over Troubled Water,Simon & Garfunkel,spotify:track:6l8EbYRtQMgKOyc1gcDHF9,0.149,0.206,3,-13.888,1,0.0323,0.822,0.000649,0.115,0.264,79.764
+House Of The Rising Sun,The Animals,spotify:track:7BY005dacJkbO6EPiOh2wb,0.295,0.584,9,-6.696,0,0.0345,0.000385,0.218,0.0996,0.228,117.2
+Daydream Believer,The Monkees,spotify:track:7uEcCGtM1FBBGIhPozhJjv,0.51,0.488,7,-10.304,1,0.0304,0.256,0.0,0.11,0.649,125.683
+Livin' On A Prayer,Bon Jovi,spotify:track:0J6mQxEZnlRt9ymzFntA6z,0.534,0.887,0,-3.777,1,0.0345,0.0768,9.93e-05,0.325,0.72,122.494
+You Give Love A Bad Name,Bon Jovi,spotify:track:3KYiA4vq6RPO1dE2XROXd8,0.537,0.959,0,-3.002,0,0.0557,0.0704,1.8e-06,0.382,0.828,122.806
+Thank You For Loving Me,Bon Jovi,spotify:track:577MNC3o3L0lNIzx9abqOk,0.385,0.342,2,-7.749,1,0.0285,0.416,0.0,0.119,0.131,132.864
+Two Story Town,Bon Jovi,spotify:track:5ZH9eXVK1rs0NboOhvY86Y,0.529,0.732,9,-6.201,0,0.033,0.0273,0.0,0.52,0.506,94.45
+Next 100 Years,Bon Jovi,spotify:track:6ALxuARAwzq5f6FB2glgPm,0.273,0.759,11,-4.75,0,0.0427,0.00159,0.00437,0.101,0.442,167.644
+Just Older,Bon Jovi,spotify:track:1DJHDVTIqjYYeVobsD7iHR,0.509,0.787,2,-5.065,1,0.0512,0.0146,1.12e-06,0.126,0.363,128.871
+One Wild Night,Bon Jovi,spotify:track:03LGpDYgqaaj2TuX5Sj7CS,0.552,0.881,0,-4.52,0,0.101,0.104,5e-06,0.0971,0.524,142.558
+Born To Be My Baby,Bon Jovi,spotify:track:50ZpPgU81payZxI2H7QXNM,0.534,0.959,7,-4.289,1,0.0379,0.0089,0.0,0.347,0.756,131.278
+Living In Sin,Bon Jovi,spotify:track:4urd42euwvihhC3j1G8Jt2,0.267,0.793,4,-7.12,1,0.0415,0.0247,0.0,0.0634,0.526,174.118
+Raise Your Hands,Bon Jovi,spotify:track:7edZO40XkVIPbdvd2gCHZ3,0.451,0.957,2,-3.166,1,0.0471,0.0619,0.00213,0.07,0.519,136.31
+I'd Die For You,Bon Jovi,spotify:track:2HKkbbCwRRXu5COx9AY5LZ,0.423,0.972,9,-2.389,0,0.0634,0.26,0.000101,0.168,0.477,132.929
+Never Say Goodbye,Bon Jovi,spotify:track:47jkSOZX6hFbTQoFgCKAQE,0.326,0.805,2,-2.428,1,0.0343,0.0511,0.0,0.109,0.277,135.855
+Wild In The Streets,Bon Jovi,spotify:track:7FOomGddxLBUmogfeGXCTg,0.278,0.971,9,-2.285,1,0.0572,0.00484,5.45e-05,0.26,0.711,165.518
+Imagine,Pentatonix,spotify:track:1UaTmLT3nB1sNBfv1hkqU1,0.243,0.287,11,-9.429,1,0.0308,0.697,0.0,0.104,0.161,142.124
+Save the World / Don't Worry Child,Pentatonix,spotify:track:1k69KJ5AsFwkbK5MOOxLHx,0.563,0.735,9,-7.305,0,0.0579,0.0226,0.0,0.123,0.356,128.01
+Cocaine,Eric Clapton,spotify:track:3ykSdTGmYPFl8pDBXer1zG,0.699,0.502,9,-12.526,1,0.0278,0.0607,0.0337,0.317,0.676,105.266
+Pour Some Sugar On Me (2012),Def Leppard,spotify:track:0LN0ASTtcGIbNTnjSHG6eO,0.497,0.849,9,-5.352,1,0.0612,0.00985,0.0,0.106,0.72,169.937
+You Can't Always Get What You Want,The Rolling Stones,spotify:track:6lFZbCc7pn6Lme1NP7qQqQ,0.32,0.62,0,-9.686,1,0.0594,0.64,6.36e-05,0.253,0.472,86.327
+(I Can't Get No) Satisfaction - Mono Version,The Rolling Stones,spotify:track:2PzU4IB8Dr6mxV3lHuaG34,0.723,0.863,2,-7.89,1,0.0338,0.0383,0.0317,0.128,0.931,136.302
+"Another Brick in the Wall, Pt. 2",Pink Floyd,spotify:track:4gMgiXfqyzZLMhsksGmbQV,0.693,0.394,0,-15.882,1,0.0428,0.0782,0.000694,0.247,0.721,104.114
+Goodbye Blue Sky,Pink Floyd,spotify:track:0ESdtt9cjGZUkUbaubSrv2,0.638,0.0811,7,-22.646,1,0.0335,0.879,0.00313,0.314,0.0503,109.154
+Rock You Like A Hurricane,Scorpions,spotify:track:0XIvZ82aDF7JiSi3ZE320u,0.482,0.601,7,-12.846,1,0.0486,0.00853,0.000187,0.249,0.774,125.619
+Poison,Alice Cooper,spotify:track:5XcZRgJv3zMhTqCyESjQrF,0.28,0.908,2,-5.509,0,0.109,0.0327,8.85e-06,0.18,0.26,118.698
+School's Out,Alice Cooper,spotify:track:5Z8EDau8uNcP1E8JvmfkZe,0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364
+House of Fire,Alice Cooper,spotify:track:3besbqbQ0SNltlL36FAMD2,0.479,0.979,10,-5.077,0,0.107,0.0207,0.0,0.722,0.292,124.764
+Take Me To Church,Hozier,spotify:track:0IqKeD8ZSP72KbGYyzEcAs,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945
+Fireflies,Owl City,spotify:track:3DamFFqW32WihKkTVlwTYQ,0.512,0.662,3,-6.797,1,0.0439,0.0275,0.0,0.118,0.472,180.114
+Pompeii,Bastille,spotify:track:3gbBpTdY8lnQwqxNCcf795,0.679,0.715,9,-6.383,1,0.0407,0.0755,0.0,0.271,0.571,127.435
+Knockin' On Heaven's Door,Guns N' Roses,spotify:track:32V8SrHZnYzZu7V47L2jgK,0.486,0.744,6,-7.176,1,0.0404,0.0204,0.00298,0.112,0.362,132.446
+Smoke on the Water,Deep Purple,spotify:track:5SAUIWdZ04OxYfJFDchC7S,0.632,0.586,0,-11.333,1,0.0284,0.0983,0.581,0.0535,0.89,114.243
+Hey You - 2011 Remastered Version,Pink Floyd,spotify:track:4WKpan8kLoNuaFgvc8ONc6,0.588,0.301,0,-14.979,1,0.0294,0.221,0.00236,0.128,0.19,112.458
+You Shook Me All Night Long,AC/DC,spotify:track:2SiXAy7TuUkycRVbbWDEpo,0.532,0.767,7,-5.509,1,0.0574,0.00287,0.000513,0.39,0.755,127.361
+Rock And Roll All Nite,KISS,spotify:track:7990Xs9HQx7FXVIDVPEwj9,0.656,0.931,1,-5.827,1,0.0976,0.046,0.0,0.0543,0.909,144.747
+My Immortal,Evanescence,spotify:track:4UzVcXufOhGUwF56HT7b8M,0.19,0.265,9,-9.206,1,0.0356,0.863,0.0,0.134,0.101,79.012
+Wrecking Ball,Miley Cyrus,spotify:track:2vwlzO0Qp8kfEtzTsCXfyE,0.53,0.422,5,-6.262,1,0.0342,0.407,0.0,0.107,0.349,119.964
+Me And My Broken Heart,Rixton,spotify:track:1oew3nFNY3vMacJAsvry0S,0.545,0.783,5,-4.261,0,0.0345,0.00489,0.0,0.132,0.551,174.084
+Basket Case,Green Day,spotify:track:6L89mwZXSOwYl76YXfX13s,0.442,0.943,3,-3.205,1,0.0602,0.00293,8.71e-06,0.091,0.781,85.064
+American Idiot,Green Day,spotify:track:6nTiIhLmQ3FWhvrGafw2zj,0.38,0.988,1,-2.042,1,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113
+King for a Day,Green Day,spotify:track:3b2Tnh3Dd9ahRoNm28RfNM,0.419,0.983,1,-4.073,0,0.0389,0.000583,8.09e-05,0.163,0.946,147.584
+Good Riddance (Time of Your Life),Green Day,spotify:track:6ORqU0bHbVCRjXm9AjyHyZ,0.475,0.432,7,-7.844,1,0.0302,0.183,0.0,0.161,0.648,94.605
+Fat Lip,Sum 41,spotify:track:4KacUpvbA3Mfo05gttTjhN,0.402,0.914,9,-5.215,1,0.142,0.000579,0.0,0.065,0.626,196.505
+Applause,Lady Gaga,spotify:track:2Zj4FUsMtu9PMuJsHbGbdv,0.669,0.78,7,-4.287,0,0.053,0.0265,1.63e-06,0.143,0.738,139.945
+Gives You Hell,The All-American Rejects,spotify:track:6ihL9TjfRjadfEePzXXyVF,0.718,0.691,4,-6.44,1,0.0387,0.0159,0.0,0.0627,0.552,100.008
+Mr. Brightside,The Killers,spotify:track:7oK9VyNzrYvRFo7nQEYkWN,0.356,0.924,1,-3.74,1,0.0808,0.00101,0.0,0.0953,0.232,148.017
+Born This Way,Lady Gaga,spotify:track:6r2BECwMgEoRb5yLfp0Hca,0.587,0.828,11,-5.108,1,0.161,0.00327,0.0,0.331,0.494,123.907
+Love Runs Out,OneRepublic,spotify:track:5BJSZocnCeSNeYMj3iVqM7,0.719,0.935,7,-3.752,1,0.0589,0.167,0.0,0.0973,0.738,120.022
+"Danger Zone - From ""Top Gun"" Original Soundtrack",Kenny Loggins,spotify:track:34x6hEJgGAOQvmlMql5Ige,0.544,0.897,3,-6.056,0,0.0471,0.241,0.0,0.13,0.647,157.17
+I Bet My Life,Imagine Dragons,spotify:track:1CQXNBt6zv15L8zDITcxRB,0.545,0.659,1,-8.18,1,0.0394,0.367,0.00111,0.415,0.599,108.04
+One Step Closer,Linkin Park,spotify:track:3K4HG9evC7dg3N0R9cYqk4,0.492,0.969,9,-4.419,1,0.0491,0.0014,1.32e-06,0.0787,0.538,95.136
+Papercut,Linkin Park,spotify:track:1Vej0qeQ3ioKwpI6FUbRv1,0.524,0.939,9,-3.994,1,0.113,0.00022,0.0,0.623,0.661,150.184
+Love Somebody,Maroon 5,spotify:track:0HnaqUxvHP5LaWdmWwJpiS,0.675,0.792,1,-6.303,1,0.0368,0.145,0.0,0.12,0.395,120.016
+Reach For The Sky,Social Distortion,spotify:track:5eGDKrTYl2h6ponZyMMhgZ,0.437,0.98,1,-3.05,1,0.0552,1.61e-05,0.00207,0.304,0.409,122.735
+Carry Out (Featuring Justin Timberlake),Timbaland,spotify:track:2DHc2e5bBn4UzY0ENVFrUl,0.531,0.574,10,-6.693,0,0.113,0.114,0.0308,0.256,0.272,115.68
+Dance,Petra,spotify:track:4e1IgVpmLOFuRxOLpJoQDy,0.619,0.89,1,-7.1,1,0.0293,0.0016,0.000282,0.092,0.655,106.014
+I Don't Want To Grow Up,Ramones,spotify:track:6SYAkJQoasyrSvAj5abGDJ,0.528,0.917,11,-5.465,0,0.038,0.000722,0.0023,0.257,0.55,91.03
+Spiderman - Live,Ramones,spotify:track:4nSwuRL8QkjBqgd7VI9bjG,0.167,0.955,7,-8.266,1,0.0832,8.22e-05,0.922,0.187,0.324,191.524
+We're A Happy Family - Live,Ramones,spotify:track:1qzi1RVvvdDI9oo0PoiSBh,0.48,0.983,2,-7.25,1,0.0497,0.000113,0.754,0.265,0.624,127.849
+R.A.M.O.N.E.S. - Live,Ramones,spotify:track:41bS96myd5A4dUyMcHqWFh,0.562,0.949,11,-6.351,1,0.0461,0.00173,2.72e-05,0.209,0.886,120.564
+Rock 'N Roll High School - Live At The Palace/1996,Ramones,spotify:track:0N9zDDkivIRtF18sxeDuaF,0.525,0.919,0,-6.914,1,0.0457,0.000533,0.0799,0.144,0.701,128.646
+K.K.K. Took My Baby Away - Live At The Palace/1996,Ramones,spotify:track:4yPAaaxkHymm1UIAXtMK5v,0.283,0.962,8,-6.732,1,0.107,0.000301,0.00044,0.126,0.458,176.728
+Mary Jane's Last Dance,Tom Petty and the Heartbreakers,spotify:track:5eYwDBLucWfWI5KsV7oYX2,0.402,0.814,10,-4.954,1,0.14,0.0383,1.19e-06,0.266,0.516,170.02
+I Want To Be A Clone - I Want To Be A Clone,Steve Taylor,spotify:track:1q2NJhekwWFU8pxdI2yOnc,0.682,0.616,3,-13.872,1,0.0697,0.0263,0.000288,0.0574,0.883,147.634
+Meltdown (At Madame Tussaud's),Steve Taylor,spotify:track:0yDKahApfmEGGXK86lqTMp,0.599,0.835,10,-13.453,0,0.0726,0.0188,0.000109,0.366,0.876,176.172
+On The Fritz - On The Fritz Album Version,Steve Taylor,spotify:track:4FqSyQjIz7LSS9xPj4f9Ks,0.788,0.524,0,-11.538,1,0.031,0.115,0.0918,0.354,0.807,118.169
+Jim Morrison's Grave - Now The Truth Can Be Told Album Version,Steve Taylor,spotify:track:5vNnnFgOrlVmGGe7KkcwGu,0.502,0.762,1,-7.286,1,0.031,0.0276,0.0042,0.135,0.254,137.329
+I Blew Up The Clinic Real Good - Now The Truth Can Be Told Album Version,Steve Taylor,spotify:track:5fuDPwKKjUAx04r2cofO8v,0.628,0.779,7,-7.151,1,0.0259,0.0427,8.35e-05,0.463,0.927,113.687
+Baby Doe - Now The Truth Can Be Told Album Version,Steve Taylor,spotify:track:6nPs5HL3xav6Wn9f0Vr4XD,0.384,0.133,6,-15.681,0,0.0419,0.747,4.97e-06,0.0696,0.124,125.305
+"Drive, He Said - Now The Truth Can Be Told Album Version",Steve Taylor,spotify:track:1cO83GyyNDV6rKbBLWbfRW,0.621,0.842,5,-9.63,1,0.0647,0.0386,3.22e-05,0.358,0.461,123.071
+Dark As A Dungeon,Johnny Cash,spotify:track:37ZYjiEPRvsw5iXassQPhk,0.596,0.0406,4,-14.344,1,0.0398,0.954,9.87e-06,0.0967,0.445,95.684
+Man of Constant Sorrow,Charm City Devils,spotify:track:6TA1tVt12Hl9Ggrz6J55U6,0.416,0.876,5,-3.853,1,0.0513,0.000158,0.0147,0.331,0.686,83.946
+"I Am A Man Of Constant Sorrow - From “O Brother, Where Art Thou” Soundtrack / Radio Station Version",The Soggy Bottom Boys,spotify:track:5AhDb4oM6f4YmHPXW123Fg,0.568,0.308,5,-13.063,1,0.0274,0.69,0.0,0.104,0.721,85.917
+I Want to Know What Love Is,Amason,spotify:track:3HszEQiMdPTNcglWcnMGk3,0.268,0.56,2,-6.734,0,0.0471,0.521,0.207,0.0782,0.334,178.766
+Killing Me Softly With His Song,Fugees,spotify:track:0Q0IVlqMV64kNLlwjPj0Hl,0.765,0.29,4,-17.117,0,0.139,0.0279,0.0,0.571,0.506,92.409
+Haven't Met You Yet,Michael Bublé,spotify:track:4fIWvT19w9PR0VVBuPYpWA,0.615,0.733,8,-4.808,1,0.0335,0.152,0.0,0.109,0.796,122.58
+Holiday,Bee Gees,spotify:track:4SyA5GahcFVbJEcDooBybR,0.5,0.145,9,-14.169,0,0.03,0.921,0.0,0.0857,0.197,104.706
+In The Light,DC Talk,spotify:track:0ns55oQB9v1MsFYmSzRu9P,0.641,0.834,8,-5.77,0,0.0526,0.179,1.25e-05,0.208,0.707,105.751
+Stars Align,Lindsey Stirling,spotify:track:3YhO0NPxDnbLT2LswPaQPG,0.614,0.789,5,-6.206,1,0.039,0.000513,0.895,0.259,0.241,126.984
+Whole Wide World,Wreckless Eric,spotify:track:5GL7iZg4ELjVcqovuP6PDS,0.746,0.548,5,-9.057,1,0.0747,0.527,0.000141,0.0923,0.881,114.299
+Mr. Pinstripe Suit,Big Bad Voodoo Daddy,spotify:track:5TB8lq3NL3GcKHMBj36czk,0.655,0.715,11,-7.086,0,0.0602,0.0382,8.33e-06,0.0741,0.765,107.645
+Give A Little Bit,Supertramp,spotify:track:6XUHsYE38CEbYunT983O9G,0.531,0.818,2,-5.358,1,0.0452,0.0694,0.0096,0.263,0.471,90.767
+Two Tickets to Paradise,Eddie Money,spotify:track:22CIOfLZB9z8He7WgHYAgH,0.623,0.68,2,-13.255,1,0.0282,0.0056,0.000425,0.148,0.737,129.713
+Mandy,Barry Manilow,spotify:track:4oV4dVj0evVFhjPLvUz8w8,0.325,0.421,10,-8.859,1,0.0278,0.373,1.03e-06,0.126,0.39,104.146
+Dragostea Din Tei - Original Italian Version,O-Zone,spotify:track:4rPLXgafE7QzpWGUPR2Nfy,0.669,0.887,11,-6.498,0,0.0295,0.0412,0.0,0.094,0.805,130.04
+The Storm/The Anchor Holds,Ray Boltz,spotify:track:7iVjZhc9ZJLjSlrEtnWs7l,0.481,0.346,8,-11.753,1,0.0254,0.41,1.25e-05,0.377,0.183,75.593
+Bobby Brown Goes Down,Frank Zappa,spotify:track:2IBJHglp50a8GxonbKrnPf,0.598,0.564,0,-10.251,1,0.18,0.272,0.0,0.145,0.781,136.453
+Every Woman in the World,Air Supply,spotify:track:3mI9Z256VhQI6VAHRxFqUf,0.485,0.555,9,-6.928,1,0.0279,0.201,0.0,0.11,0.364,78.085
+Are You There_,Cast Recording,spotify:track:2R2Tmfn9QyPN7C0pNKBOb0,0.56,0.507,4,-10.588,1,0.0606,0.505,0.0,0.102,0.332,99.651
+Warning,Cast Recording,spotify:track:40rrfGuOx4rkLgsBBM0Q8w,0.397,0.145,8,-13.042,1,0.0345,0.734,0.00231,0.142,0.0924,74.345
+All Grown Up,Cast Recording,spotify:track:7JnaRPvym5p9pkkrjVePra,0.409,0.292,1,-11.459,0,0.11,0.512,0.0,0.0666,0.183,75.904
+Awesome God,Rich Mullins,spotify:track:5niLKxgCj4UriedJmPtJld,0.485,0.407,6,-14.874,0,0.0352,0.265,0.0,0.139,0.459,73.837
+Cartoons and Vodka,Jinkx Monsoon,spotify:track:7MTSjR6qz771m55GNvhAYb,0.642,0.739,9,-5.59,1,0.0422,0.304,0.148,0.0875,0.805,82.952
+Skyfall,Adele,spotify:track:6VObnIkLVruX4UVyxWhlqm,0.346,0.552,0,-6.864,0,0.0282,0.417,0.0,0.114,0.0789,75.881
+Changes,Faul & Wad Ad,spotify:track:13qqdlSeF8FcxsRyapDMZ0,0.822,0.704,3,-8.242,0,0.0374,0.00864,0.627,0.0633,0.255,125.999
+Ode To Attention Seekers,Paul Baker,spotify:track:2XOP5N6f1i7dsew5MiaFEG,0.398,0.597,0,-6.019,1,0.0838,0.533,0.0,0.0912,0.702,93.625
+I'll Have You All,Boy George,spotify:track:3FZFomhF0aLhSgWN6Gcp2R,0.622,0.374,8,-9.067,1,0.134,0.5,0.0,0.239,0.67,113.434
+Daydream Believer,Mary Beth Maziarz,spotify:track:5hPDjcK2S8pQaeVcfBn7jE,0.481,0.0303,7,-18.456,1,0.0456,0.965,0.000146,0.107,0.266,114.194
+Unchained Melody,The Righteous Brothers,spotify:track:1jFhnVoJkcB4lf9tT0rSZS,0.361,0.219,0,-16.553,1,0.0285,0.563,0.0,0.558,0.26,98.532
+She Will Be Loved,Maroon 5,spotify:track:7sapKrjDij2fpDVj0GxP66,0.706,0.713,0,-5.512,0,0.0301,0.0596,0.0,0.132,0.544,102.037
+Green Car,Not Available,spotify:track:3pg3psGPtSAAepxydyoTiW,0.364,0.906,7,-6.878,1,0.104,0.000424,0.0,0.371,0.463,184.98
+Don't You Want Me,The Human League,spotify:track:3L7RtEcu1Hw3OXrpnthngx,0.731,0.738,9,-8.125,0,0.0377,0.184,0.0,0.214,0.958,117.656
+Prisoner to My Emotions,Trayci Jenkins and the Jenkenettes,spotify:track:6TX8a0et6zVPhfAQinxfzD,0.544,0.665,10,-6.771,0,0.0301,0.061,0.000221,0.112,0.285,134.137
+My Life Story,MxPx,spotify:track:1bDJ2cu0mHrlkouazutEj5,0.364,0.981,9,-3.848,1,0.0787,0.00316,0.0,0.152,0.437,185.698
+Praise the Lord and Pass the Ammunition,Kay Kyser & His Orchestra,spotify:track:7wlkvrgk3QNzv5qE0jT9Gm,0.48,0.563,7,-5.939,1,0.0304,0.865,0.0018,0.195,0.77,130.889
+Escher's World,Chagall Guevara,spotify:track:6vfdKlKRqFlm0Enz4M3BcH,0.58,0.862,2,-9.446,1,0.0474,0.00746,0.000214,0.799,0.676,130.218
+My Way,Frank Sinatra,spotify:track:6lTTzSk1hRrxp4VMwXBp2l,0.279,0.454,2,-7.733,1,0.0316,0.395,0.0,0.198,0.216,150.661
+One Last Drink,Enter The Haggis,spotify:track:156fYYicI5aC1NmWgU5F4R,0.618,0.77,9,-4.589,1,0.115,0.0389,0.0,0.0732,0.776,135.028
+Violent Blue,Chagall Guevara,spotify:track:5OiBqALzBt8wYBs29hJ2YN,0.51,0.893,7,-9.821,1,0.0588,0.0058,0.00158,0.308,0.628,129.092
+Murder In The Big House,Chagall Guevara,spotify:track:1k4aMdgoToH5RZDsrbup2e,0.573,0.899,4,-10.561,0,0.0644,0.0127,0.00557,0.138,0.499,122.032
+Heart-Shaped Box,Nirvana,spotify:track:11LmqTE2naFULdEP94AUBa,0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006
+Smells Like Teen Spirit,Nirvana,spotify:track:5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761
+Set It Off,Thousand Foot Krutch,spotify:track:2TiX0h796QjWt0gHGeNOMB,0.512,0.714,2,-4.878,1,0.147,0.00239,0.0,0.244,0.497,82.723
+Cold Song 2013 - DJ Hell Remix,DJ Hell,spotify:track:33CkjUEwsiNTunPEyIcxT1,0.66,0.806,1,-8.643,1,0.043,0.0226,0.268,0.11,0.0398,117.008
+Crazy,Gnarls Barkley,spotify:track:2N5zMZX7YeL1tico8oQxa9,0.835,0.741,8,-1.609,1,0.0339,0.0172,0.0577,0.0826,0.612,111.963
+Pity Party,Melanie Martinez,spotify:track:3fo6DYGktjENCiagUeU9yH,0.716,0.73,6,-4.126,0,0.0364,0.058,7.32e-06,0.151,0.339,136.05
+Friends Theme - I'll Be There for You,The Rembrandts,spotify:track:1Pdsl0V5VWwnEw3rdg3zRY,0.422,0.898,2,-5.521,1,0.0452,0.000979,0.0,0.0781,0.527,95.284
+Today 4 U,Wilson Jermaine Heredia,spotify:track:7AznNC0oIieN4mdxNKF5Oj,0.634,0.837,7,-8.899,1,0.0971,0.0256,0.0,0.198,0.519,131.85
+Rent,Anthony Rapp,spotify:track:63n5l8cXGCqPW4wbjrVdpZ,0.438,0.726,7,-6.91,1,0.139,0.0259,0.0,0.749,0.438,176.574
+Left Outside Alone,Anastacia,spotify:track:3xl7PsO7Hzuig6To9FgDm6,0.663,0.746,2,-3.567,0,0.0321,0.0697,0.0,0.0929,0.325,102.847
+Sick and Tired,Anastacia,spotify:track:6WMQVizkSPAufOGOk2x4dL,0.595,0.87,0,-4.495,1,0.0394,0.0107,0.0,0.288,0.494,99.741
+We Can't Stop,Miley Cyrus,spotify:track:2y4lAQpi5VTNLu2ldeTdUH,0.613,0.622,1,-5.794,0,0.0334,0.00882,0.0,0.37,0.484,80.003
+Loose Lips,The Ballroom Thieves,spotify:track:0fpIXr7pP8DBc3BGZMNxXq,0.727,0.736,6,-6.422,0,0.0466,0.54,0.0,0.115,0.756,119.979
+Rehab,Amy Winehouse,spotify:track:1L5tZi0izXsi5Kk5OJf4W0,0.434,0.872,0,-2.974,1,0.0702,0.0473,1.83e-06,0.396,0.732,71.515
+Tango: Maureen,Fredi Walker,spotify:track:7IqFwNJih9ZD2oV7IWJT0N,0.67,0.404,8,-10.855,1,0.188,0.317,0.0,0.22,0.622,131.507
+Somebody Told Me,The Killers,spotify:track:7HGTkn2aX7MNdKs7nV2xBt,0.509,0.987,10,-3.198,0,0.0886,8.05e-05,0.000928,0.119,0.647,138.039
+Centuries,Fall Out Boy,spotify:track:04aAxqtGp5pv12UXAg4pkq,0.393,0.858,4,-2.868,0,0.0729,0.00359,0.0,0.102,0.56,176.042
+That Time,Regina Spektor,spotify:track:2lLZotRXsQL3k2xX8rhl7q,0.603,0.697,9,-5.297,1,0.0552,0.229,7.26e-05,0.101,0.827,145.508
+Nobody's Listening,Linkin Park,spotify:track:6O8Fqxnk5OlOivJHklfkPZ,0.502,0.831,2,-3.723,1,0.295,0.105,1.3e-06,0.174,0.451,199.972
+Whiskey In The Jar,Metallica,spotify:track:3ZpWy5rBZv2aLQAldnmTsP,0.511,0.972,10,-3.751,1,0.0413,5.36e-06,0.00101,0.19,0.532,132.97
+I Fought the Law,Dead Kennedys,spotify:track:4AjNTrJmgry75yiihCMOP8,0.237,0.942,7,-4.738,1,0.069,0.000348,0.00362,0.316,0.592,180.51
+Rolling in the Deep,Adele,spotify:track:1CkvWZme3pRgbzaxZnTl5X,0.729,0.756,8,-5.119,1,0.0294,0.131,0.0,0.0527,0.522,104.945
+Set Fire to the Rain,Adele,spotify:track:3CKCZ9pfwAfoMZlMncA1Nc,0.61,0.683,2,-3.879,0,0.0253,0.00382,1.79e-06,0.125,0.466,108.003
+I Want It That Way,Backstreet Boys,spotify:track:6e40mgJiCid5HRAGrbpGA6,0.689,0.702,6,-5.642,0,0.0261,0.216,0.0,0.159,0.484,99.031
+"One Bourbon, One Scotch, One Beer",George Thorogood & The Destroyers,spotify:track:0u6Quwu7pe0lxJJPsRe4Mf,0.59,0.855,4,-9.486,1,0.163,0.0679,0.00377,0.174,0.793,136.648
+Get A Haircut,George Thorogood & The Destroyers,spotify:track:4BapXuAFLZlURi8Vyg16eE,0.614,0.708,7,-8.456,1,0.0307,0.0115,0.0,0.0586,0.849,120.651
+Sweet Dreams (Are Made Of This),Marilyn Manson,spotify:track:3D0bXrSv7O73vOaGOG8J9c,0.222,0.664,0,-5.242,0,0.0379,0.0039,0.65,0.239,0.101,186.044
+Bye Bye Blackbird,Joe Cocker,spotify:track:2l98TtzrTbSpJa7mGMpZM2,0.506,0.392,10,-12.784,1,0.0373,0.713,0.000574,0.316,0.268,123.81
+One Way Or Another,Blondie,spotify:track:59CLe8stbcx4XYBWdsfbwK,0.442,0.922,2,-5.086,1,0.0655,0.0532,3.86e-06,0.0768,0.855,162.272
+Goodbye Earl,The Chicks,spotify:track:7rqaqQurHzR5xHAhdm1gmM,0.705,0.7,0,-7.38,1,0.0295,0.0192,0.0,0.0755,0.765,122.841
+For the Longest Time,MC6 A Cappella,spotify:track:0PuWvFJqZPJAxZNrFgw8xL,0.616,0.298,2,-7.712,1,0.0274,0.78,0.0,0.0973,0.712,82.471
+Cartoon Heroes - Iti’s Soda Club Radio Mix,Aqua,spotify:track:4DdzlEP5THcWv6FgClaJFW,0.697,0.861,5,-8.449,0,0.0295,0.00837,0.000301,0.339,0.772,134.051
+Better Off Alone (Remastered) - 1999 Original Hit Radio,Alice Deejay,spotify:track:48gBfTRel9fajeev7tmLpo,0.666,0.854,8,-8.442,0,0.0565,0.0044,0.769,0.313,0.748,136.954
+Ymca,Village People,spotify:track:7Cp69rNBwU0gaFT8zxExlE,0.715,0.951,6,-6.488,1,0.132,0.152,0.0,0.302,0.671,126.643
+My Life Is Going On (Música Original De La Serie De TV La Casa De Papel / Money Heist),Cecilia Krull,spotify:track:5ZEQjTroORCu6uWvZrdeNc,0.427,0.647,6,-8.944,0,0.0353,0.102,2.13e-06,0.133,0.298,99.753
+Poison - DJ Gollum meets Money G Radio Edit,DJ Gollum,spotify:track:6lM6NpMPNAcdwPUbpq1mWb,0.657,0.949,9,-4.037,1,0.0626,0.00067,0.00067,0.201,0.49,145.059
+Baker Street,Gerry Rafferty,spotify:track:5gOd6zDC8vhlYjqbQdJVWP,0.497,0.349,7,-14.0,1,0.0297,0.0929,0.028,0.259,0.421,113.762
+Rumour Has It,Adele,spotify:track:76N7FdzCI9OsiUnzJVLY2m,0.618,0.753,7,-5.05,0,0.0451,0.637,0.0,0.0905,0.557,120.041
+Every Breaking Wave,U2,spotify:track:0gcPlCmT36t4uzSwlIrfQh,0.672,0.441,1,-9.065,0,0.0268,0.00991,6.7e-06,0.109,0.429,115.059
+Someone Like You,Nick Pitera,spotify:track:4DPtx2N4uFTKOMzL1P2gsq,0.405,0.2,9,-12.873,1,0.0387,0.85,0.0,0.0744,0.213,134.926
+Together Again,Dave Koz,spotify:track:7igzgZaMWs7r1YVCC3orR0,0.618,0.778,5,-6.372,1,0.0423,0.0708,0.000481,0.21,0.729,92.843
+You Can't Always Get What You Want,Ituana,spotify:track:31kL6SK7esUd0QRkrkjI8Q,0.721,0.462,0,-9.954,1,0.0459,0.308,0.000172,0.0875,0.158,130.042
+I Guess That's Why They Call It The Blues,Elton John,spotify:track:23l1kVpqMVREiwU1YAlcr4,0.673,0.663,0,-7.29,1,0.0269,0.217,0.017,0.177,0.671,120.634
+All of Me,Smooth Jazz All Stars,spotify:track:3bvRARdk20BEU86fxVZKIz,0.719,0.229,8,-10.239,1,0.0333,0.984,0.883,0.104,0.289,125.983
+Mirrors,Smooth Jazz All Stars,spotify:track:4cR5db5RtWV8NSYwYFFdx1,0.688,0.659,0,-7.617,0,0.083,0.572,0.922,0.323,0.638,75.364
+High For This,Smooth Jazz All Stars,spotify:track:0XKSkAfBeNoaYzRaUhnKyz,0.588,0.225,11,-11.139,0,0.034,0.798,0.632,0.0693,0.102,74.976
+I Started a Joke,Smooth Jazz All Stars,spotify:track:38AOofRhmCUIxTpn1wvcb1,0.709,0.29,7,-11.023,1,0.0335,0.928,0.776,0.109,0.206,147.942
+What The World Needs Now Is Love,Burt Bacharach,spotify:track:6JFgBE2seXKTUkHdOVq3N1,0.41,0.214,2,-16.48,0,0.0289,0.829,0.0165,0.0851,0.18,92.839
+Help - Live,DC Talk,spotify:track:4p5P52AXF1JOgzCPmoOvGt,0.473,0.91,9,-6.728,1,0.0664,0.0655,0.0,0.607,0.607,101.122
+Levels,Avicii Cover Band,spotify:track:5nVppf6qgPqdHEkV3acLQo,0.576,0.495,1,-9.557,0,0.027,0.156,0.242,0.346,0.389,128.052
+Ibang - Original Mix,Acid Pauli,spotify:track:61Osll9KkZS6EFi1svSEnY,0.91,0.487,0,-12.205,1,0.0794,0.00261,0.676,0.109,0.0647,123.018
+I Wish We'd All Been Ready,Larry Norman,spotify:track:1lovNibE6WsrWvXYmVyeEA,0.37,0.291,7,-14.216,1,0.0272,0.522,0.00553,0.66,0.35,71.323
+Heaven - Candlelight Mix,DJ Sammy,spotify:track:6ZbeoJ5NW0hhmSjjyfsX00,0.519,0.189,2,-11.54,1,0.0375,0.967,0.000802,0.0717,0.386,124.964
+Heaven,DJ Sammy,spotify:track:0KT6DLAELYSbgfUemzwGPX,0.565,0.942,8,-6.821,1,0.0518,0.00107,0.000406,0.152,0.568,137.973
+Japanese Gum,Her Space Holiday,spotify:track:1X937gcn6Bub06IdNOvrfS,0.591,0.829,11,-8.566,1,0.0384,0.28,0.00867,0.11,0.775,90.013
+The Funeral,Band of Horses,spotify:track:4o0NjemqhmsYLIMwlcosvW,0.316,0.769,0,-5.283,0,0.0422,0.0142,0.0,0.0928,0.127,122.507
+"Touch-A, Touch-A, Touch Me",Susan Sarandon,spotify:track:2SK1kGbpABI9EyUbADSP5z,0.355,0.351,1,-13.572,1,0.0621,0.16,0.0,0.109,0.431,171.896
+Кольщик,Leningrad,spotify:track:0L9QnU8wWtiULsZ2lMiLAc,0.507,0.457,11,-4.921,0,0.0891,0.345,8.27e-05,0.0972,0.291,134.577
+Dirty Computer (feat. Brian Wilson),Janelle Monáe,spotify:track:7nJZ9LplJ3ZAyhQyJCJk0K,0.45,0.488,9,-8.702,1,0.0329,0.38,3.38e-05,0.649,0.272,159.965
+"Crazy, Classic, Life",Janelle Monáe,spotify:track:06EAtSDu3KSoi4fbA3ZjoB,0.466,0.706,6,-7.943,0,0.0544,0.0084,0.00163,0.223,0.149,101.009
+Masterpiece,Jessie J,spotify:track:4PYiIgzcp4o5pEYji1xY9q,0.661,0.733,0,-2.7,0,0.0434,0.0153,0.0,0.0982,0.612,143.932
+If Everyone Cared,Nickelback,spotify:track:44w63XqGr3sATAzOnOySgF,0.519,0.85,6,-4.678,0,0.0354,0.000246,0.014,0.279,0.211,132.022
+The Sound of Silence,Disturbed,spotify:track:1Cj2vqUwlJVG27gJrun92y,0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794
+"So Long, And Thanks For All The Fish",A Perfect Circle,spotify:track:4R5kwDx0ryIMiK2PKqbNVY,0.5,0.874,2,-3.867,1,0.0371,0.00147,0.0664,0.0714,0.331,130.048
+Photograph,Nickelback,spotify:track:2wdEXKLcuU7B0M2gqFmABH,0.515,0.876,8,-3.756,1,0.0292,0.000932,0.000166,0.136,0.385,145.916
+"Down To The River To Pray - From “O Brother, Where Art Thou” Soundtrack",Alison Krauss,spotify:track:5tePn9lOIMHfFaqoTxFrio,0.526,0.166,4,-15.227,1,0.0859,0.964,0.0,0.229,0.549,131.375
+Angel - Angelic Radio Mix,Joee,spotify:track:2zhik9UYGXKQc6lfPK5cLU,0.675,0.861,0,-9.269,1,0.0274,0.00182,0.000179,0.199,0.783,135.063
+Castles In The Sky (featuring Marsha),Ian van Dahl,spotify:track:1AyMm0UfxY4eKHdRvZxdHB,0.572,0.863,0,-6.543,0,0.0319,0.00277,0.448,0.0323,0.681,140.021
+Love The Way You Lie,Eminem,spotify:track:15JINEqzVMv3SvJTAXAKED,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989
+Stranger in My House - Thunderpuss Radio Mix,Tamia,spotify:track:3OoyGUkW4Ob6RMrzrehx4i,0.698,0.991,9,-4.29,0,0.068,0.11,0.0016,0.261,0.321,132.993
+99 Luftballons,Nena,spotify:track:6HA97v4wEGQ5TUClRM0XLc,0.466,0.438,4,-12.858,1,0.0608,0.089,5.62e-06,0.113,0.587,193.1
+99 Red Balloons,Oliver Nelson,spotify:track:6JZqV6QpI0etVFD8UWaLqe,0.649,0.869,1,-5.422,0,0.0459,0.0193,0.0589,0.236,0.48,102.049
+Feel like Makin' Love - 2015 Remaster,Bad Company,spotify:track:3KPwt1LBpt1jVSHz8GXERo,0.543,0.529,7,-9.717,1,0.0301,0.326,0.00269,0.709,0.746,85.126
+Angel Of The Morning,Juice Newton,spotify:track:6NVB6W7G3svCKe5zB7kY8q,0.456,0.233,8,-12.634,1,0.0255,0.433,6.42e-05,0.0538,0.424,75.174
+Can't Fight This Feeling,REO Speedwagon,spotify:track:5WwqdeavrQrbeAMDxGawse,0.408,0.48,9,-11.017,1,0.0266,0.155,1.82e-05,0.0877,0.19,156.344
+Highway to Hell,AC/DC,spotify:track:2zYzyRzz6pRmhPzyfMEC8s,0.574,0.913,6,-4.793,0,0.133,0.061,0.00158,0.156,0.423,115.728
+The Lady In Red,Chris de Burgh,spotify:track:5tHbBxWjTxaQpL5SrT17Tz,0.59,0.306,10,-16.326,1,0.0325,0.328,6.95e-06,0.0377,0.493,77.069
+Girls Just Want to Have Fun,Cyndi Lauper,spotify:track:4y1LsJpmMti1PfRQV9AWWe,0.71,0.799,6,-4.897,1,0.0328,0.22,0.000602,0.349,0.725,120.372
+Majestic,Wax Fang,spotify:track:5yzxbU3DPhyfQvBBJExzb7,0.499,0.364,2,-8.839,1,0.0307,0.467,0.0989,0.115,0.271,155.075
+I Dreamed a Dream,Susan Boyle,spotify:track:1uenbEVPd129TmVPXyn9Lv,0.286,0.378,10,-8.752,1,0.0382,0.803,0.000518,0.107,0.113,69.316
+Closing Time,Semisonic,spotify:track:087OBLtoeS3Q6j0k6tMNAI,0.486,0.867,7,-5.483,1,0.0295,0.0237,1.66e-06,0.155,0.281,92.757
+What I Like About You,The Romantics,spotify:track:6NdcSEhpGGAYXNnnhGS2s6,0.542,0.915,9,-9.637,1,0.0549,0.319,5.34e-05,0.171,0.92,159.81
+Hurt,Nine Inch Nails,spotify:track:4pFnV6aV1bnEDqPDGBlrNp,0.485,0.193,11,-16.985,0,0.0322,0.697,0.0262,0.135,0.079,79.926
+Outside,Staind,spotify:track:50Re2bLgXqG9qN7v2QHNTm,0.515,0.594,1,-4.708,1,0.0262,0.00844,0.00658,0.0752,0.218,146.564
+"Mrs. Robinson - From ""The Graduate"" Soundtrack",Simon & Garfunkel,spotify:track:0iOZM63lendWRTTeKhZBSC,0.606,0.457,6,-14.035,0,0.0497,0.713,2.53e-05,0.0747,0.813,92.033
+Knoxville Girl,The Lemonheads,spotify:track:6hWj5dS3JC258KGZtH3Xrm,0.327,0.533,2,-7.762,1,0.0317,0.451,0.0706,0.284,0.589,189.23
+Pour Me,Hollywood Undead,spotify:track:4rx8uIKssxGV1S1lCZMgLc,0.593,0.727,0,-6.132,1,0.0366,0.0582,0.0,0.0656,0.446,86.495
+Worth As Much As A Counterfeit Dollar,Capital Lights,spotify:track:5S4iqbelathvMs6wlkXfmn,0.494,0.923,1,-4.636,1,0.0406,0.00451,0.0,0.124,0.869,169.949
+Hard to Say I'm Sorry / Get Away - 2006 Remaster,Chicago,spotify:track:07TnWCHrFkvF61GzJuLVt0,0.398,0.57,4,-7.068,1,0.034,0.056,0.00125,0.0606,0.234,140.974
+Everything Will Be Okay,Home Free,spotify:track:5HU3yt8W02dO6umISJyjoP,0.475,0.563,10,-6.359,1,0.0367,0.16,2.06e-06,0.127,0.604,77.976
+Summertime Sadness (Acoustic Cover) feat. Keelan Donovan,Megan Davies,spotify:track:6TqDrmjUDqQo4JiF1apQnL,0.62,0.403,1,-6.998,0,0.0393,0.636,0.0,0.128,0.528,135.84
+Hooray For You,Huntingtons,spotify:track:2eUhz7juIgtpev3cRdAKPz,0.46,0.923,9,-4.462,1,0.0324,0.000425,0.0,0.731,0.494,155.105
+(Dying Inside) To Hold You - Heartbreak Radio Edit,Timmy Thomas,spotify:track:4TNuDumYtmoFMmQtFlpWvS,0.52,0.669,0,-12.925,1,0.0417,0.011,4.83e-05,0.13,0.694,203.097
+Do They Know It's Christmas? - 1984 Version,Band Aid,spotify:track:0247StOpd3AkeBQzANX4Zf,0.599,0.642,0,-6.936,1,0.0363,0.164,3.33e-05,0.0992,0.349,115.412
+Heartbreak Hotel,Heidi Feek,spotify:track:30gdw2QqmH3XaXMIrPVkXs,0.422,0.437,4,-8.206,0,0.0402,0.61,0.00487,0.0843,0.505,161.636
+Champagne Supernova - Remastered,Oasis,spotify:track:40bynawzslg9U7ACq07fAj,0.286,0.796,2,-4.625,1,0.0388,0.47,0.063,0.364,0.12,150.272
+Twist,KiDi,spotify:track:6Nvip0xG8VFFR2DwDGS3be,0.855,0.59,6,-5.608,0,0.0449,0.364,2.67e-05,0.126,0.926,104.984
+Measure Of A Man,Clay Aiken,spotify:track:34bM8eF9L5b6n9jFWSp0lQ,0.455,0.761,3,-4.734,1,0.0373,0.102,0.0,0.168,0.494,163.998
+Eloi,Klaus Badelt,spotify:track:2iaS8Zl5jfBpqNJfxfmS2B,0.119,0.088,11,-15.926,0,0.0365,0.787,0.0266,0.101,0.0438,90.633
+Eye of the Tiger,Survivor,spotify:track:2KH16WveTQWT6KOG9Rg6e2,0.817,0.599,0,-9.249,0,0.0328,0.132,0.000311,0.0873,0.548,108.873
+Do You Really Want To Hurt Me,Culture Club,spotify:track:5WfOZiINWQ8r8pZE1dbXHm,0.737,0.492,4,-9.631,0,0.0306,0.109,0.0,0.17,0.35,100.495
+Say Something,Pentatonix,spotify:track:2SrJ0Iw6GobiRGyh2XKZhV,0.249,0.248,7,-8.976,1,0.0333,0.71,0.0,0.093,0.0812,150.318
+Say Something,A Great Big World,spotify:track:6Vc5wAMmXdKIAM7WUoEb7N,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284
+Empire State of Mind (Part II) Broken Down,Alicia Keys,spotify:track:5sra5UY6sD658OabHL3QtI,0.484,0.368,6,-7.784,1,0.0341,0.74,3.82e-05,0.118,0.142,92.923
+Wicked Game,Chris Isaak,spotify:track:390AWnOn2rfe9FzQjYmxIH,0.667,0.548,9,-7.802,1,0.0262,0.744,0.0122,0.0946,0.29,112.549
+Getting Even,White Lies,spotify:track:7aovkxVF2B9I3SKXGTxnA9,0.5,0.909,8,-5.006,1,0.0424,0.000319,0.0204,0.111,0.307,102.481
+Whatcha Say,Jason Derulo,spotify:track:67T6l4q3zVjC5nZZPXByU8,0.615,0.711,11,-5.507,1,0.0779,0.0444,0.0,0.145,0.711,144.036
+They Don't Know About Us,One Direction,spotify:track:72C7aUQECOhNtnD0AC36ua,0.512,0.754,0,-6.031,1,0.0549,0.135,0.0,0.0881,0.336,147.89
+Voices in My Head,NerdOut,spotify:track:5kzbfGqjoKxbKQGl8RFuCg,0.634,0.607,7,-6.787,1,0.0301,0.00186,0.0,0.142,0.359,91.996
+Top Of The World,Carpenters,spotify:track:4mtUOBfy2KjqTOPl7N8esR,0.378,0.349,10,-12.918,1,0.0455,0.817,0.0,0.0999,0.663,184.428
+If I Could Turn Back Time,Cher,spotify:track:6mYrhCAGWzTdF8QnKuchXM,0.658,0.575,11,-10.365,1,0.0267,0.243,0.0,0.122,0.504,108.329
+Believe,Cher,spotify:track:2goLsvvODILDzeeiT4dAoR,0.652,0.917,6,-6.72,1,0.0548,0.0082,0.0,0.0509,0.459,132.975
+The Thunder Rolls,Brooks Jefferson,spotify:track:6Ra5YZBdQRVRHX1GhRA4hH,0.562,0.646,2,-4.937,0,0.0372,0.408,4.39e-05,0.122,0.274,81.77
+The Scotsman - Live At The Winfield National Flat Picking Festival,Bryan Bowers,spotify:track:4uCoSdXBPQIJHbGsI51yjc,0.72,0.263,11,-14.08,1,0.0732,0.898,0.0,0.713,0.825,108.733
+Mambo Rap,Parov Stelar,spotify:track:14RrzxMs07EhE8bUso5Pso,0.94,0.837,9,-4.143,0,0.146,0.079,2.63e-05,0.135,0.924,119.985
+The Middle,Jimmy Eat World,spotify:track:3mcG2NI5G5vhrQtRda1YnA,0.629,0.897,2,-3.401,1,0.0483,0.0424,0.0,0.263,0.93,161.944
+The End of the World,Skeeter Davis,spotify:track:5DTOOkooKFUvWj1XQTFa09,0.232,0.216,10,-10.674,1,0.0314,0.936,4.93e-06,0.246,0.432,94.268
+Girls on Film - 2010 Remaster,Duran Duran,spotify:track:4EFkvOhgAmlHEfDfvfSoh5,0.725,0.859,7,-6.208,1,0.0636,0.0173,0.0137,0.048,0.53,131.697
+Jesus Freak - Remastered 2013,DC Talk,spotify:track:4zAjQDduJhIRFSpfrIN68Z,0.599,0.837,5,-4.045,0,0.0394,0.00684,6.93e-05,0.104,0.561,104.457
+Hasa Diga Eebowai,Michael Potts,spotify:track:52a9fyhPzrMz6bxVQoEIcX,0.76,0.605,6,-8.782,1,0.372,0.431,0.0,0.141,0.452,105.69
+When Love Is Gone,Martina McBride,spotify:track:0RkafZ3fY16vMfVWnqNXbX,0.548,0.246,2,-13.453,1,0.0355,0.732,0.0,0.361,0.1,122.466
+Primadonna,MARINA,spotify:track:5tFMuAw6X2R4NLx97g7n9q,0.66,0.689,4,-2.671,0,0.0337,0.0884,0.0,0.0922,0.427,127.98
+I'm Gonna Show You Crazy,Bebe Rexha,spotify:track:5LtNBCM2ve0SxP0dlRVvMu,0.474,0.537,2,-6.77,1,0.0649,0.0758,0.0,0.316,0.335,90.103
+Every Rose Has Its Thorn,Miley Cyrus,spotify:track:2GFAmPwmQByPEeWcjiR8AE,0.254,0.657,10,-4.995,1,0.0385,0.19,0.0,0.0952,0.352,151.045
+What Have We Become? - Remastered 2013,DC Talk,spotify:track:4HwHhuBVrfslXOH5NJukXp,0.539,0.792,5,-4.721,0,0.0355,0.0474,2.07e-06,0.0977,0.682,81.576
+What If I Stumble? - Remastered 2013,DC Talk,spotify:track:6amSl4oPLY4f64BoXJUyNu,0.462,0.665,0,-5.617,1,0.0288,0.157,1.44e-06,0.14,0.683,177.25
+Don't Stop Believing,Royal Philharmonic Orchestra,spotify:track:1ZhnDc12qOsieOVnzaCzj5,0.485,0.425,4,-14.967,1,0.0311,0.00342,0.706,0.0913,0.21,118.456
+Hey You,Royal Philharmonic Orchestra,spotify:track:3d3ViPfNgBz1DY6ufIrL2o,0.426,0.378,4,-11.752,0,0.0292,0.335,0.833,0.266,0.124,113.033
+Another Brick In The Wall,Royal Philharmonic Orchestra,spotify:track:6EUpjBbuUmZcJSrZob17m5,0.37,0.444,0,-12.24,1,0.0303,0.18,0.917,0.109,0.314,103.016
+Like a Prayer,Royal Philharmonic Orchestra,spotify:track:0TWQfCwgSLINS5seX0Ebbr,0.616,0.787,5,-8.483,1,0.0378,0.209,0.118,0.0403,0.528,112.028
+Another One Bites The Dust,Royal Philharmonic Orchestra,spotify:track:3pGOB8Ity9DrMcAwW7ELg0,0.833,0.246,9,-14.249,1,0.0491,0.578,0.807,0.297,0.685,109.999
+We Will Rock You,Royal Philharmonic Orchestra,spotify:track:0pMkNleRk8eFlHZJqIox23,0.597,0.46,9,-11.666,1,0.0309,0.361,0.324,0.0542,0.742,83.025
+Sound Of Silence,Royal Philharmonic Orchestra,spotify:track:3mMx3fRT8cJCvseVMhskMa,0.23,0.18,6,-13.444,1,0.0383,0.9,0.679,0.0745,0.118,130.449
+Mrs Robinson,Royal Philharmonic Orchestra,spotify:track:4zSxh0nUbiUAePK7DlJ194,0.431,0.421,6,-10.887,0,0.0286,0.706,0.0537,0.527,0.414,94.044
+Set Fire To the Rain,The Regency Philharmonic Orchestra,spotify:track:04DeGBgk6QohjwiXOXkPFn,0.462,0.305,2,-15.147,0,0.0302,0.00104,0.886,0.115,0.116,107.934
+Hallelujah,The Regency Philharmonic Orchestra,spotify:track:1p4nx7itnQLpDuVwuA3hss,0.0659,0.0846,9,-20.033,0,0.0407,0.868,0.856,0.311,0.0378,63.435
+Somebody To Love - Remastered 2011,Queen,spotify:track:6cFZ4PLC19taNlpl9pbGMf,0.497,0.693,8,-7.024,1,0.0565,0.19,0.0,0.215,0.358,111.539
+All You Need Is Love,Royal Philharmonic Orchestra,spotify:track:1WqoNZd1qjPOuV3yGlDGfj,0.283,0.278,7,-16.084,1,0.0338,0.735,0.14,0.42,0.395,115.751
+Cheerio,The Monroes,spotify:track:1Jr9IcDZqYYVMmE853Yc5u,0.533,0.506,7,-7.304,1,0.0245,0.565,0.0,0.113,0.252,74.816
+The Ballad Of The Green Berets,Sgt. Barry Sadler,spotify:track:0yjNmllr3Ew6f97TqPuEqa,0.715,0.327,0,-11.814,1,0.033,0.782,0.000344,0.625,0.713,84.369
+Rainbow Connection,The Whiffenpoofs,spotify:track:5bS7oLqrFoxwuEmBNoFufG,0.28,0.215,10,-11.296,1,0.0337,0.921,0.0,0.113,0.0905,132.223
+The Lady in Red - Chill out Version,Adam Story,spotify:track:34jy1SonG5AzaLuz07N94b,0.541,0.385,4,-13.304,1,0.0271,0.169,0.000686,0.0974,0.38,143.988
+Carry on Wayward Son,Facing West,spotify:track:0wXh8X9cQTtbehMwVIWL4r,0.293,0.273,7,-12.695,0,0.0335,0.0941,2.93e-05,0.134,0.132,180.052
+Radio Romance,Tiffany,spotify:track:7tSHnwXxOk8BiRWzlLWfZ9,0.61,0.762,11,-11.207,1,0.0316,0.00976,0.000505,0.419,0.778,136.149
+Crocodile Rock,Elton John,spotify:track:6WCeFNVAXUtNczb7lqLiZU,0.621,0.8,4,-7.284,0,0.0344,0.0263,1.51e-05,0.0591,0.968,149.91
+Runaway,Bon Jovi,spotify:track:0X1sqQ652p1sceKM2nJlIJ,0.475,0.899,9,-4.321,0,0.0637,0.00375,1.91e-05,0.14,0.603,152.445
+Watercolour Ponies,Wayne Watson,spotify:track:05a8XJJIJoiX9wPg7JGqbe,0.534,0.236,1,-12.755,0,0.0276,0.766,0.0,0.112,0.252,100.723
+Mississippi Squirrel Revival,Ray Stevens,spotify:track:54zSjfZLFDQXSWkZzwlYJE,0.695,0.499,0,-13.283,1,0.0661,0.179,0.0,0.0598,0.695,108.085
+Tell It to My Heart,Taylor Dayne,spotify:track:3YVPpVJvJG2EauXurPA90F,0.638,0.988,1,-5.042,1,0.0921,0.0302,1.16e-05,0.371,0.723,117.955
+Que Sera Sera,Pink Martini,spotify:track:7GGehQ6H7fUmvMHBccJkpk,0.335,0.218,7,-12.309,1,0.0328,0.758,1.52e-06,0.0849,0.317,121.139
+Relax,Frankie Goes To Hollywood,spotify:track:2K22nUTdyr48JDwI5t906t,0.676,0.695,11,-13.395,0,0.0392,0.326,1.09e-05,0.0462,0.691,114.93
+Bed Of Roses,Bon Jovi,spotify:track:1zng9uqqXoPkmU05nsAlsw,0.309,0.596,5,-5.599,1,0.0293,0.101,0.0,0.21,0.161,164.587
+Look On Down From The Bridge,Mazzy Star,spotify:track:010ALbbh5KlQ4fKWgSdhRd,0.37,0.0772,0,-19.322,1,0.0414,0.642,0.69,0.112,0.0954,119.942
+Not Over You,Gavin DeGraw,spotify:track:6j7hih15xG2cdYwIJnQXsq,0.63,0.894,10,-4.592,1,0.0544,0.255,0.0,0.181,0.364,142.051
+I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,spotify:track:2tUBqZG2AbRi7Q0BIrVrEj,0.709,0.824,1,-8.824,1,0.0453,0.207,0.000307,0.0888,0.867,118.818
+"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,spotify:track:5b2bu6yyATC1zMXDGScJ2d,0.596,0.73,9,-4.091,1,0.151,0.24,0.0,0.325,0.525,85.979
+Secrets,OneRepublic,spotify:track:1NhPKVLsHhFUHIOZ32QnS2,0.516,0.764,2,-6.223,1,0.0366,0.0717,0.0,0.115,0.376,148.021
+Rx (Medicate) - Symphonic Acoustic,Theory of a Deadman,spotify:track:5Bd0ckNtNsxISCa6uuxMLK,0.638,0.359,1,-6.457,1,0.029,0.782,0.0,0.0972,0.294,59.965
+Holiday,Green Day,spotify:track:4VgEM12OeaN3GyBV487Me7,0.552,0.89,8,-3.409,1,0.0342,0.000143,0.0,0.888,0.716,146.525
+Come Sail Away,Styx,spotify:track:0PsbWiVtix5FoTZ1s00mEl,0.324,0.335,0,-15.595,1,0.0355,0.099,1.08e-06,0.0995,0.141,119.513
+If You Don't Love Me (I'll Kill Myself),Pete Droge,spotify:track:2T9AeuP4y28iAZW295tglJ,0.419,0.734,7,-7.841,1,0.0294,0.00357,2.32e-05,0.243,0.729,130.783
+"Sweat (Brooklyn Bowl, 5.20.17) [Live]",The Main Squeeze,spotify:track:7Doe3EvjSq4vXzwEDaixb3,0.512,0.865,9,-6.101,1,0.189,0.378,3.03e-05,0.146,0.836,123.331
+Shot,The Main Squeeze,spotify:track:74YtbinTtTiuI5ph0VUNJD,0.445,0.848,4,-4.608,0,0.133,0.00334,0.0456,0.0881,0.611,135.749
+Gimme Danger,The Stooges,spotify:track:0yOcVe3GzHnKT2bdlVb8jR,0.361,0.859,3,-5.122,0,0.0585,0.00339,0.679,0.0864,0.231,132.222
+Stairway to Heaven - Remaster,Led Zeppelin,spotify:track:5CQ30WqJwcep0pYcV4AMNc,0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433
+Dark Horse,Katy Perry,spotify:track:5jrdCoLpJSvHHorevXBATy,0.645,0.585,6,-6.122,1,0.0513,0.00314,0.0,0.165,0.353,131.931
+Santa Fe,Adam Pascal,spotify:track:2TN1LttjDusbg3hzeH9MzJ,0.697,0.56,9,-6.926,1,0.121,0.594,1.71e-06,0.112,0.448,157.521
+For the Damaged Coda,Blonde Redhead,spotify:track:7jA5OcunWRSYXq98puhAX8,0.499,0.468,0,-9.995,0,0.0396,0.795,0.88,0.0899,0.0763,141.463
+Can You Feel the Love Tonight,Beyoncé,spotify:track:1zSKtBze2IReYU44W0lDzd,0.337,0.331,5,-10.16,1,0.0385,0.657,0.0,0.085,0.35,103.203
+Stampede,Hans Zimmer,spotify:track:6aGHQu7gHrYgVSXvF5udUt,0.184,0.623,2,-12.145,0,0.0883,0.367,0.814,0.0467,0.0382,106.569
+Forever Young,Ursine Vulpine,spotify:track:0lkOnOscrC7YeHK4H3WzCX,0.232,0.494,9,-11.58,0,0.0569,0.578,0.0623,0.0897,0.0385,109.138
+Yesterday - Remastered 2009,The Beatles,spotify:track:3BQHpFgAp4l80e1XslIjNI,0.332,0.179,5,-11.83,1,0.0326,0.879,0.0,0.0886,0.315,96.529
+Someone You Loved,Lewis Capaldi,spotify:track:2XfZTkN2rTMw4ncgdP0fY9,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891
+The Miracle (Of Joey Ramone),U2,spotify:track:2HNeoSQWVkCwrBOZPMjQRl,0.488,0.824,2,-7.878,1,0.0823,0.0112,0.0,0.348,0.24,134.814
+Wicked Game,Daisy Gray,spotify:track:5Vg8XNROaFqfgX6EaLoQYN,0.298,0.356,3,-10.955,1,0.0353,0.858,0.000377,0.0652,0.052,101.605
+River,Bishop Briggs,spotify:track:0TGTE9TEh9qzuFwmtRNICn,0.726,0.484,2,-6.707,0,0.0477,0.274,2.44e-06,0.0874,0.561,62.493
+A Place in the Sun (Acoustic),The Elms,spotify:track:78M874Q4SC5JpvtUmsVDc0,0.649,0.406,9,-7.509,1,0.0304,0.822,7.34e-06,0.113,0.404,108.997
+Eleanor Rigby - Remastered 2009,The Beatles,spotify:track:5GjPQ0eI7AgmOnADn1EO6Q,0.581,0.28,4,-9.091,0,0.0381,0.936,1.56e-05,0.305,0.813,137.831
+Little Talks,Julia Sheer,spotify:track:1ulDt6ySVbMbzZCBO6hSfb,0.637,0.263,5,-9.094,0,0.0399,0.873,0.0,0.164,0.487,97.423
+Drag Me Down / As Long As You Love Me,Gardiner Sisters,spotify:track:7B0hVrD5iwkiQhHSjUjSrz,0.678,0.346,3,-8.571,1,0.0345,0.848,0.0,0.128,0.461,135.989
+Sounds And Thoughts,Kaleidoscope Jukebox,spotify:track:0tb6zLbssuZLKvWUoy4ni4,0.546,0.808,1,-6.353,1,0.067,0.112,0.48,0.263,0.763,170.034
+Movin' Out (Anthony's Song),Billy Joel,spotify:track:45rEbIrmTMmPfmvmDEqdEo,0.668,0.89,2,-5.005,0,0.0329,0.45,1.94e-05,0.0545,0.893,133.876
+Lost Boy,Ruth B.,spotify:track:4h0zU3O9R5xzuTmNO7dNDU,0.71,0.0565,7,-15.099,1,0.0534,0.965,0.0,0.0889,0.348,123.994
+Cheek to Cheek - Extended Mix,Odd Chap,spotify:track:59mwMv7hu4NsCdaXENW1JV,0.697,0.964,7,-3.611,1,0.117,0.0134,0.0534,0.0486,0.783,99.017
+Black Betty,Caravan Palace,spotify:track:2erfXuZOAQ8T6FjJPDFpBC,0.832,0.948,4,-3.979,0,0.0502,0.192,0.000117,0.0806,0.864,121.973
+Queen of Chinatown,Amanda Lear,spotify:track:2JGSaHOvwcx7yfijBUbrFU,0.674,0.747,5,-9.251,1,0.0767,0.0019,0.0205,0.176,0.905,128.196
+S. B. M. T.,The Bastard Suns,spotify:track:27RHCJ5d9xz076XO8cH9sB,0.751,0.747,7,-5.494,0,0.0581,0.0274,0.0,0.147,0.792,129.054
+Raised By Wolves,U2,spotify:track:7iOX1fIesxEQUoSChli4Y0,0.622,0.601,1,-8.702,1,0.0319,0.183,1.63e-06,0.129,0.438,141.931
+Tom Sawyer,Rush,spotify:track:3QZ7uX97s82HFYSmQUAN1D,0.536,0.901,9,-7.211,1,0.0374,0.00145,0.0186,0.06,0.666,87.559
+A Bar In Amsterdam,Katzenjammer,spotify:track:0ytvlQNCJmSY6l6a840U5A,0.589,0.799,7,-5.233,0,0.0907,0.0771,6.46e-06,0.37,0.713,143.954
+Another Irish Drinking Song,Da Vinci's Notebook,spotify:track:3QxgOiZSkuyq7hALKV3fJa,0.78,0.529,2,-9.549,1,0.498,0.896,0.0,0.654,0.966,141.763
+I Will Survive,Cake,spotify:track:0qgiFuYhYuwtFXEwYakddE,0.507,0.683,7,-8.079,1,0.0316,0.303,0.000132,0.142,0.901,95.732
+Want You Gone,Aperture Science Psychoacoustic Laboratories,spotify:track:1NHsYfWMlDzCJEOOM3bIFY,0.617,0.507,1,-5.926,0,0.0551,0.0431,6.91e-06,0.106,0.879,100.166
+Every One of Us,Rick Astley,spotify:track:5b6zAh5CNRv6dN5JrMNtmk,0.615,0.876,3,-2.881,1,0.033,0.162,0.0,0.117,0.744,98.045
+Alone - Live,Heart,spotify:track:53Om78AwCypEIDszjG4ebo,0.241,0.394,6,-7.293,1,0.0299,0.597,0.0105,0.332,0.0964,131.266
+India,BoomBox,spotify:track:386CJPc8jgJMRlzhKfWlFO,0.923,0.339,9,-11.391,1,0.0712,0.0629,0.0299,0.101,0.571,111.013
+Caught In The Crowd,Kate Miller-Heidke,spotify:track:7ti8eUguyyIOxvM1jKblr4,0.605,0.587,9,-6.028,1,0.0479,0.468,0.0,0.105,0.43,169.876
+Code Monkey,Jonathan Coulton,spotify:track:3cLqK3LPVrTIzfENVmYLoU,0.583,0.619,4,-6.827,1,0.0443,0.172,0.0,0.0951,0.804,159.973
+Callin' Out,Lyrics Born,spotify:track:7GLq7uJTZbgcrOQllpjxsf,0.848,0.673,1,-4.101,1,0.293,0.169,0.0,0.0865,0.94,94.921
+We Can’t Stop,Scott Bradlee's Postmodern Jukebox,spotify:track:1gi65cLj9jXpaEJ3z3vaqY,0.704,0.59,4,-8.183,1,0.0435,0.604,0.0,0.1,0.565,114.069
+Medley: Sexy Ladies / Let Me Talk to You (Prelude),Justin Timberlake,spotify:track:3DxnAINrl5zqnOtC78QBzq,0.693,0.435,6,-5.866,1,0.284,0.0124,3.7e-05,0.0871,0.598,99.946
+Creep,Scott Bradlee's Postmodern Jukebox,spotify:track:2Jju8C95blJcGMqtMKETbH,0.292,0.359,5,-9.043,1,0.0328,0.697,1.85e-05,0.108,0.228,177.334
+All About That Bass,Scott Bradlee's Postmodern Jukebox,spotify:track:4CNUDscRrCQAf0qqLwuIXU,0.571,0.463,9,-8.076,1,0.115,0.779,1.21e-06,0.179,0.606,121.567
+Royals,Scott Bradlee's Postmodern Jukebox,spotify:track:1Ror5ReO93QlIp0vJ4wHxB,0.678,0.574,3,-7.943,1,0.0845,0.363,3.89e-05,0.0815,0.448,148.916
+Stacy’s Mom,Scott Bradlee's Postmodern Jukebox,spotify:track:14A7iordd24zLljUxI7Hc3,0.61,0.878,8,-5.436,1,0.0498,0.519,0.0,0.242,0.758,133.054
+Rude,Scott Bradlee's Postmodern Jukebox,spotify:track:2MW0hEEMNL6AwYSNpY09yA,0.454,0.756,1,-5.407,1,0.0676,0.484,0.0,0.0937,0.763,147.657
+Thrift Shop,Scott Bradlee's Postmodern Jukebox,spotify:track:1dzMV3NHumGKZ4W5PZHMJM,0.719,0.732,1,-4.518,1,0.246,0.352,0.0,0.0738,0.895,106.329
+Sorry,Scott Bradlee's Postmodern Jukebox,spotify:track:322fx0gDLh68rI09LLVhht,0.365,0.678,7,-5.897,1,0.143,0.623,0.0,0.155,0.745,176.264
+Maps,Scott Bradlee's Postmodern Jukebox,spotify:track:3I51AMwnzyYwP58qPOX6A0,0.628,0.654,1,-5.466,0,0.0452,0.813,6.6e-06,0.106,0.673,102.025
+Miracle,Caravan Palace,spotify:track:4trtuxyoMRBjS8wY6PB7OR,0.712,0.888,7,-4.996,1,0.0621,0.61,0.000614,0.116,0.51,100.0
+Melancolia,Caravan Palace,spotify:track:0K8ML5cB3rGmNe1oOVTXPo,0.71,0.688,6,-6.622,1,0.0305,0.656,1.62e-06,0.0972,0.768,136.032
+Born to Die,The Amity Affliction,spotify:track:2BmvafX08HneGOFozVGB6P,0.425,0.993,4,-3.974,0,0.108,0.00432,0.0,0.284,0.156,96.043
+Born To Die,Lana Del Rey,spotify:track:487OPlneJNni3NWC8SYqhW,0.428,0.626,4,-6.639,0,0.0339,0.222,8.22e-05,0.277,0.379,86.02
+Off To The Races,Lana Del Rey,spotify:track:5IyblF777jLZj1vGHG2UD3,0.399,0.721,4,-5.562,0,0.0523,0.0621,0.00282,0.278,0.113,160.125
+Baby Got Back,Jonathan Coulton,spotify:track:7dUMK0nYcV3jVGHlDuLM9w,0.545,0.6,0,-10.27,1,0.0309,0.197,0.000446,0.104,0.587,180.024
+Born to Die (Dance Mix),The Re-Mix Heroes,spotify:track:3XxCL1kbzXC9SKw1qLvWHu,0.814,0.77,4,-6.169,0,0.0509,0.0401,2.04e-05,0.202,0.776,119.995
+I Feel Love,Sam Smith,spotify:track:29MOOOmMRPeWyPwKQFoF5t,0.719,0.708,0,-7.418,1,0.0417,0.00645,0.201,0.064,0.256,126.015
+House of the Rising Sun,Five Finger Death Punch,spotify:track:3cZr1Z832aXANu6a9fifkx,0.47,0.958,4,-3.382,0,0.0964,0.00183,0.0012,0.107,0.255,76.977
+Parvati's Singing Bowl,Kaleidoscope Jukebox,spotify:track:1kxibL2OWQfLJMQTMPIqVL,0.504,0.704,9,-5.85,0,0.0417,0.0118,0.565,0.194,0.317,113.276
+Hotel Yorba,The White Stripes,spotify:track:66Xoy2shVLpqTMvcziDCUy,0.385,0.791,7,-2.647,1,0.0949,0.454,0.0,0.0755,0.764,194.642
+Prayer in C - Robin Schulz Radio Edit,Lilly Wood and The Prick,spotify:track:5fnA9mkIfScSqHIpeDyvck,0.763,0.875,9,-5.797,0,0.0262,0.024,5.41e-06,0.599,0.8,123.013
+21st Century Cure,Terrance Zdunich,spotify:track:72p0iFeYYSCulZ3kRs5l5p,0.379,0.932,4,-5.957,1,0.127,0.0571,0.0261,0.667,0.312,115.786
+Until We Say Goodbye,Joe Satriani,spotify:track:295rBxcbFFtYUx1ry8f2Xa,0.537,0.615,0,-7.173,1,0.0252,0.136,0.79,0.123,0.34,76.0
+Hard Habit to Break - 2006 Remaster,Chicago,spotify:track:3Tows9RnoAq9CmMJaII2cO,0.584,0.612,2,-5.833,1,0.0283,0.448,0.0,0.171,0.402,81.182
+Coral - Original Mix,Undercatt,spotify:track:51clotloAbKWzismMiPc66,0.805,0.577,6,-9.982,0,0.0589,0.00833,0.934,0.103,0.321,122.985
+Love Never Dies (Part 1 Edit),Apoptygma Berzerk,spotify:track:0ptLSY2thWxWd2l9jT6G0Q,0.523,0.879,2,-7.062,1,0.0288,4.74e-05,0.794,0.113,0.185,128.012
+Cry Little Sister - Original Lost Boys Film Version,G Tom Mac,spotify:track:62PEgf5TnB9ZoEbnBMdLJI,0.446,0.702,2,-6.341,0,0.0791,0.132,0.00376,0.138,0.305,146.051
+Numa Numa Meets Metal,ERock,spotify:track:68F4JiFJEvlhj5soK2MnP5,0.268,0.969,8,-4.25,0,0.233,0.00086,0.00221,0.316,0.261,140.861
+Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,spotify:track:6FRLCMO5TUHTexlWo8ym1W,0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959
+All By Myself,Céline Dion,spotify:track:0gsl92EMIScPGV1AU35nuD,0.344,0.325,11,-10.005,0,0.0287,0.35,0.0223,0.0686,0.0775,118.515
+Mad World,Scott Bradlee's Postmodern Jukebox,spotify:track:6Qk1YmTx5VyaAEDK2UuBrj,0.481,0.267,0,-8.588,1,0.0322,0.759,0.0,0.156,0.397,106.143
+Mad World,Tears For Fears,spotify:track:0Qv7xi6uPSqH2k82tOkGSt,0.647,0.896,4,-5.949,1,0.0509,0.0709,0.0505,0.0614,0.953,118.729
+I've Got the Music in Me,Kiki Dee,spotify:track:2dpGNisIy8LNjpEGzDdtft,0.492,0.85,7,-6.137,1,0.159,0.277,3.46e-05,0.634,0.343,119.469
+Mad World,Susan Boyle,spotify:track:4sJcVmy0uaFsLupAWgGzqe,0.358,0.188,7,-14.325,1,0.0336,0.85,0.000141,0.109,0.116,173.849
+Mad World,Wise Guys,spotify:track:5mhNS11C9zm6l6AjzePz4h,0.434,0.0548,3,-13.747,1,0.0578,0.696,0.0,0.145,0.35,178.554
+Mad World - Edit Mix,Belmond & Parker,spotify:track:6Lb8U5ZUe7hfgTgtrD4Knv,0.683,0.934,6,-4.87,0,0.0424,0.0726,0.000135,0.0983,0.255,130.036
+Secret Agent Man,Johnny Rivers,spotify:track:2BlaUfBTbWG50DoZHBD1uV,0.539,0.452,4,-16.838,0,0.0461,0.0238,0.0197,0.944,0.928,163.101
+The Great Pretender,Freddie Mercury,spotify:track:7m1JSCGnmorA3tjtWJpDj4,0.364,0.525,7,-8.405,1,0.0297,0.0459,3.04e-05,0.131,0.256,104.1
+The Great Pretender,The Platters,spotify:track:2FkCjtQ1lYsf71s2FAS8hE,0.425,0.401,7,-9.427,1,0.0315,0.943,3.44e-06,0.072,0.531,115.71
+The Hampsterdance Song,Hampton The Hampster,spotify:track:5pP3RGiUtFVZlWotyJb9Ei,0.729,0.93,6,-7.96,0,0.0405,0.145,0.338,0.92,0.965,136.014
+I'm Gonna Be (500 Miles),Sleeping At Last,spotify:track:0dHF8t7OIhgPele5WRUfWG,0.394,0.228,4,-12.584,1,0.0431,0.966,3.81e-05,0.113,0.258,104.625
+Kids - Soulwax Mix,MGMT,spotify:track:0ABUwW2eGGtBMc696DHGkk,0.565,0.857,9,-5.349,1,0.079,0.000239,0.0425,0.0433,0.291,128.006
+Give It 2 Me,Madonna,spotify:track:6G7d2cbkZSaAOE0H6K1ohb,0.837,0.954,8,-3.512,0,0.0414,0.0933,0.000405,0.143,0.972,127.019
+Need You Now,Lady A,spotify:track:11EX5yhxr9Ihl3IN1asrfK,0.587,0.622,4,-5.535,1,0.0303,0.0927,0.000636,0.2,0.231,107.943
+The Curse,Kurt Bestor,spotify:track:7oSkFQRFS7e7pQw2zFeNvW,0.24,0.254,5,-12.096,1,0.0369,0.929,0.000161,0.134,0.192,152.738
+I Don't Need,Alec Troniq,spotify:track:7zRvCshSGbWCPUNq9G4cvy,0.834,0.551,10,-9.103,1,0.0684,0.00911,0.0236,0.107,0.431,120.015
+Carry On,fun.,spotify:track:7gpy7sfWPNuOKmUNs3XQYE,0.388,0.694,5,-5.769,1,0.0735,0.118,0.000293,0.082,0.365,145.434
+Overkill - Acoustic Version,Colin Hay,spotify:track:5bbgiWfaHG6Vruyg3OWQuU,0.725,0.259,2,-10.959,1,0.0382,0.843,2.63e-06,0.112,0.2,133.849
+American Pie,Cast of Zoey’s Extraordinary Playlist,spotify:track:6S4ylaXOtPWR6H3WoZWiiB,0.517,0.531,4,-4.84,0,0.0605,0.341,0.0,0.102,0.385,139.852
+I'm Gonna Be (500 Miles),Cast of Zoey’s Extraordinary Playlist,spotify:track:1peCHemW6BH2PNMsdMJ1ds,0.658,0.267,4,-7.729,1,0.0969,0.576,0.0,0.112,0.666,132.826
+Crazy,Cast of Zoey’s Extraordinary Playlist,spotify:track:4Yw8TgTbkbqJ2BWFBPhc7C,0.799,0.597,0,-4.791,0,0.03,0.00462,0.0742,0.143,0.615,111.94
+I Want You to Want Me,Cast of Zoey’s Extraordinary Playlist,spotify:track:60p7hvC3euMzGdRA1fjzXG,0.525,0.461,4,-6.48,1,0.062,0.324,0.0,0.101,0.0629,177.911
+The Great Pretender,Cast of Zoey’s Extraordinary Playlist,spotify:track:2GyirvxW9fQhBYcuygukF7,0.343,0.405,10,-6.931,1,0.0451,0.339,0.0,0.0863,0.478,79.477
+I Wanna Dance with Somebody,Cast of Zoey’s Extraordinary Playlist,spotify:track:4E8XDdTLf0hwMlumjjJzaM,0.603,0.252,6,-12.192,1,0.0339,0.286,1.16e-06,0.0563,0.0667,109.912
+Jealous,Cast of Zoey’s Extraordinary Playlist,spotify:track:5bxkOQTxwGygiEUciHnIiO,0.648,0.75,7,-3.454,1,0.0906,0.0198,2.95e-06,0.116,0.484,93.056
+The Melody Within,Kurt Bestor,spotify:track:4b37qBHC4LG1OSOqtt8GPC,0.266,0.188,5,-11.718,1,0.0347,0.923,4.1e-06,0.12,0.134,87.144
+Through The Roof N' Underground (feat. Eugene Hütz),Gogol Bordello,spotify:track:0DORr5qERyz7c7oH3u28q7,0.412,0.428,0,-10.635,1,0.0397,0.438,2.4e-06,0.0778,0.677,98.038
+Walk Hard,John C. Reilly,spotify:track:1ti7FlOjQV7ZmgMjN1M4Oc,0.618,0.779,2,-5.877,1,0.0472,0.173,0.0325,0.307,0.474,96.754
+Guilty As Charged,John C. Reilly,spotify:track:7Fegy4P9imqvQHPDKAK4BY,0.588,0.605,8,-6.849,1,0.0638,0.327,0.13,0.129,0.764,80.121
+Leave Me Burning,Carlton Hayes,spotify:track:6f8xewYcUrTJD9saFBfYdQ,0.387,0.605,5,-8.321,1,0.0315,0.144,0.000147,0.279,0.188,138.769
+Since God Invented Girls,Elton John,spotify:track:0agGbBdOQuH2qIsVzL6Hao,0.501,0.493,8,-9.651,1,0.0271,0.328,0.0,0.162,0.103,68.412
+What Is Love (Metal Version),UMC,spotify:track:4ZYlBuZZw3eiZwvc6SbQoW,0.536,0.933,1,-5.321,1,0.0663,0.000961,0.0019,0.276,0.54,123.839
+Diamonds - Acoustic Dance Sessions,Yori,spotify:track:0rtItw1Gs6BvTvNppLD7FU,0.722,0.514,0,-13.198,0,0.033,0.823,0.00488,0.103,0.618,94.01
+Only Girl (In The World),Lola Rhodes,spotify:track:0cgu69vaxW8IBiSEfXo8dZ,0.549,0.147,6,-12.579,0,0.032,0.869,0.0,0.111,0.0846,105.972
+Neon Moon - with Kacey Musgraves,Brooks & Dunn,spotify:track:3lVPtkNFoIyPPGVdNri4VH,0.645,0.552,3,-7.623,1,0.033,0.167,2.33e-05,0.0718,0.214,102.881
+"Your Song - From ""Moulin Rouge"" Soundtrack",Ewan McGregor,spotify:track:1rDklEm1rIKphZ7EvWinHm,0.277,0.331,5,-9.292,1,0.0373,0.515,6.26e-05,0.111,0.256,133.233
+"Shame - 12"" Disco Mix","Evelyn ""Champagne"" King",spotify:track:0QewO59ixTHz3bsa4mRHup,0.717,0.817,11,-9.188,0,0.0415,0.00945,0.0263,0.134,0.893,134.492
+Your Song,Ellie Goulding,spotify:track:2mN9PvVZX0thvOclMwQAju,0.48,0.195,10,-11.952,1,0.0313,0.936,0.000762,0.18,0.411,133.563
+Puttin' on the Ritz,Taco,spotify:track:1taGkdO3DQsNRIQrarhVvc,0.798,0.292,0,-17.112,1,0.0777,0.152,0.00101,0.185,0.812,98.653
+Major Tom,Shiny Toy Guns,spotify:track:6MQdIVpcXuaa9QpuCd33ei,0.637,0.79,10,-6.776,0,0.0383,0.0458,0.0041,0.249,0.607,164.822
+Run,Leona Lewis,spotify:track:4hrAKlxfblnG7llBEEX7TR,0.285,0.462,5,-6.166,0,0.0291,0.428,5.61e-06,0.122,0.0923,142.365
+Somewhere to Hide,Shiny Toy Guns,spotify:track:0ustKbONSPtdPBlmC1r0kP,0.549,0.747,11,-5.74,0,0.0433,2.85e-05,0.000131,0.111,0.216,124.956
+Because of You,Kelly Clarkson,spotify:track:3f3omU8n47Mqyab5nCaGyT,0.583,0.584,5,-5.362,0,0.0314,0.254,0.0,0.123,0.136,140.039
+Rabbit Run,Eminem,spotify:track:30KKYkJ0lonfKI2eaLACnZ,0.563,0.842,6,-3.639,0,0.319,0.0026,0.0,0.16,0.336,95.392
+Be My Lover,La Bouche,spotify:track:7FoUzKTSQp25oe32pY9z5p,0.669,0.941,1,-5.765,0,0.0313,0.00129,4.3e-06,0.886,0.841,134.809
+Hypnotized - Krabbe Remix,Oliver Koletzki & Fran,spotify:track:1qZ6Yt6Mbas8IjDtvo9QQz,0.793,0.674,7,-9.213,1,0.0397,0.00723,0.734,0.206,0.832,123.061
+"Touch Me I'm Going To Scream, Pt. 2",My Morning Jacket,spotify:track:5x4Tv2PICzkwkixYuSmbYX,0.676,0.352,2,-10.239,0,0.0345,0.129,0.283,0.11,0.492,121.438
+"Always with Me, Always with You",Joe Satriani,spotify:track:0NNep3grWO95CVGp04gMM4,0.575,0.295,11,-12.584,1,0.0326,0.484,0.703,0.0639,0.394,144.366
+Rät,Penelope Scott,spotify:track:25z6kpmIwkCUqk2IORrJ5v,0.591,0.45,5,-13.291,0,0.26,0.312,0.000116,0.147,0.304,144.201
+Best I Ever Had (Grey Sky Morning),Vertical Horizon,spotify:track:2EVNYzHWebyLvKxPX6Ozt8,0.429,0.565,6,-7.274,1,0.025,0.0142,3.72e-06,0.101,0.192,85.716
+2young,Stop Light Observations,spotify:track:0YYYnjGL5VV9thEHIaGU4h,0.704,0.66,2,-7.698,1,0.0437,0.118,0.00372,0.389,0.469,155.085
+San Francisco,The Mowgli's,spotify:track:5RRWirYSE08FPKD6Mx4v0V,0.307,0.847,11,-4.215,1,0.0551,0.0215,0.0,0.0783,0.34,93.072
+Love Me Right,Amber Mark,spotify:track:2xWVD6aecDSHroyPVVcPpa,0.53,0.525,5,-6.767,0,0.0522,0.0842,2.11e-05,0.109,0.231,179.944
+Higher Ground,Jonathan Murrill,spotify:track:7cTMGTptPgTTALJ5riQL9W,0.497,0.654,1,-6.645,0,0.0324,0.0209,0.00044,0.0322,0.319,83.127
+50 Ways to Say Goodbye,Train,spotify:track:2NniAhAtkRACaMeYt48xlD,0.591,0.935,6,-2.664,1,0.0478,0.000284,0.000278,0.142,0.736,140.043
+Kissing You,Keith Washington,spotify:track:6LqiE1yBBf9IuTxaTpTyiF,0.494,0.495,7,-8.855,1,0.0312,0.184,0.0,0.127,0.233,126.515
+Another Day In Paradise,Saxtribution,spotify:track:62ecwMJuFVg9rjT0sT6jug,0.606,0.414,5,-8.94,0,0.0346,0.533,0.263,0.0642,0.585,203.673
+Circles,Post Malone,spotify:track:21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042
+Lo Que Siento,Cuco,spotify:track:3oyf4dalm17kzTE8LJDbgR,0.326,0.685,10,-5.576,1,0.179,0.503,0.0,0.427,0.409,86.882
+World in My Eyes - Cicada Mix,Depeche Mode,spotify:track:43fsHnjiJFWSCp2S5dMCxA,0.749,0.831,8,-5.326,1,0.0412,0.000721,0.35,0.101,0.848,124.985
+Ghost - Talul Remix,HRRSN,spotify:track:73Q3tXy90jJf0PwfQ0MPP9,0.723,0.812,9,-8.736,1,0.0468,0.00607,0.717,0.0436,0.135,122.021
+La Grange,ZZ Top,spotify:track:060SIy6PC30dMWw6wI6292,0.469,0.532,9,-15.666,0,0.0609,0.0128,0.125,0.118,0.52,160.914
+"Lovin', Touchin', Squeezin'",Journey,spotify:track:0VQ0n5gMgJLNixG8BfWBT5,0.403,0.644,2,-8.608,1,0.0439,0.0991,0.000179,0.231,0.714,211.27
+Girl - Remastered 2009,The Beatles,spotify:track:6tQvjqDIK9GXWIC6mejms8,0.699,0.294,5,-13.205,0,0.0294,0.587,0.0,0.117,0.893,96.615
+Everybody Knows,Leonard Cohen,spotify:track:60s0QWaOZ2UTzqdIHBCt3x,0.785,0.457,1,-13.827,0,0.0273,0.643,2.57e-06,0.172,0.692,104.205
+Feel Alright,Poolside,spotify:track:1kZklN5swy3NGwOf5NTICP,0.604,0.794,4,-5.58,0,0.0394,0.00696,0.121,0.067,0.863,105.992
+We're Good,Dua Lipa,spotify:track:1diS6nkxMQc3wwC4G1j0bh,0.722,0.588,6,-5.932,1,0.0544,0.0319,0.0,0.183,0.59,134.01
+All My Life,K-Ci & JoJo,spotify:track:5GorFaKkP2mLREQvhSblIg,0.629,0.511,1,-8.651,1,0.0326,0.114,3.91e-06,0.0588,0.181,128.038
+The Rubberband Man,The Spinners,spotify:track:4Q5HmyNvQHlfylzGY7V3Wr,0.81,0.536,10,-11.573,1,0.0583,0.466,0.00074,0.0401,0.957,97.311
+What Is Love (feat. Tears & Marble) - Original Mix,Pretty Pink,spotify:track:291qm9lMrGJaLbnJDPjS4b,0.805,0.416,1,-7.559,0,0.0789,0.0259,0.172,0.142,0.535,122.012
+Dancing In the Moonlight,King Harvest,spotify:track:7ufDF5ePKsnxYgP0DAZoZE,0.657,0.435,10,-15.707,1,0.0552,0.739,0.0,0.167,0.771,135.975
+"Hungry Eyes - From ""Dirty Dancing"" Soundtrack",Eric Carmen,spotify:track:31H6au3jhblhr6MMJiXnCq,0.712,0.549,5,-9.484,1,0.0254,0.011,0.0,0.118,0.552,109.882
+Eye Nyam Nam 'A' Mensuro - Henrik Schwarz Blend,Ebo Taylor,spotify:track:797j1JpCJrMKKy4DH2FO2u,0.761,0.626,5,-12.635,1,0.0421,0.0174,0.629,0.0879,0.712,124.027
+Let's Stick Together,Bryan Ferry,spotify:track:6y4FVJwf09ssxuRnlEgXkp,0.785,0.892,9,-4.71,1,0.0356,0.0711,0.00051,0.113,0.974,120.115
+Opportunities (Let's Make Lots of Money),Pet Shop Boys,spotify:track:0apB2QDN7ZrE91yDmw5JsY,0.652,0.812,0,-10.578,0,0.0356,0.0957,0.00137,0.0391,0.703,120.27
+Left Hand Free,alt-J,spotify:track:4iEOVEULZRvmzYSZY2ViKN,0.697,0.877,3,-4.465,1,0.0462,0.462,0.00943,0.083,0.802,101.99
+Redbone,Peter Kings,spotify:track:3cmFuSkdJ5L3mNLZou8GtN,0.852,0.298,5,-14.771,0,0.293,0.326,0.0,0.145,0.506,80.078
+MONTERO (Call Me By Your Name),Lil Nas X,spotify:track:67BtfxlNbhBmCDR2L2l8qd,0.61,0.508,8,-6.682,0,0.152,0.297,0.0,0.384,0.758,178.818
+Finale (Can't Wait To See What You Do Next),AJR,spotify:track:2wPL8Vh6lZ0DLaAw1N7Caj,0.539,0.517,5,-6.999,1,0.0272,0.0956,0.0,0.111,0.408,82.987
+In The End - Mellen Gi Remix,Tommee Profitt,spotify:track:5rAUZy2eDdegBxUVYxePK2,0.618,0.611,7,-6.654,0,0.11,0.477,0.0333,0.162,0.224,88.07
+Tomorrow We Fight,Tommee Profitt,spotify:track:5qIswLybSuwnkcKHYsclPN,0.534,0.501,3,-4.805,0,0.0354,0.127,0.000522,0.0601,0.352,124.92
+Noble Blood,Tommee Profitt,spotify:track:18ceulV4cK1NGMfrwJiyOz,0.359,0.768,4,-6.186,0,0.0363,0.288,0.0547,0.125,0.0771,179.988
+Ordinaryish People (feat. Blue Man Group),AJR,spotify:track:3sBdf3nxnEC9e2GcdP9d3j,0.627,0.64,8,-7.312,1,0.175,0.0604,5.52e-06,0.125,0.831,179.819
+Wake Me Up - Mellen Gi Remix,Tommee Profitt,spotify:track:0lesTJjdRpQF2hierSP7Nk,0.71,0.369,10,-9.072,1,0.0457,0.264,0.000255,0.117,0.0731,132.019
+Party Like Its 1929,Tape Five,spotify:track:1lzk3VCIOQPoom0FgcLbg7,0.713,0.858,1,-5.075,1,0.0325,0.0411,4.22e-06,0.855,0.883,134.03
+Young Forever,JAY-Z,spotify:track:35srNkJVToAzYiZzron1FY,0.637,0.69,9,-3.214,0,0.0693,0.417,0.0,0.211,0.103,140.329
+Light - GoSlo Remix,San Holo,spotify:track:1SltT96uaxy887m1psaZZ0,0.531,0.668,9,-4.486,1,0.042,0.102,0.0,0.218,0.161,118.806
+Come Along,Cosmo Sheldrake,spotify:track:4hs0ol9UoDjDzuT3LHgaFQ,0.576,0.623,0,-5.928,0,0.061,0.753,0.0126,0.206,0.176,97.896
+Lose My Love (feat. Gallant & Felix Cartal),Sad Money,spotify:track:079HrlFdPl6mFM8FN9kXF6,0.788,0.798,9,-5.954,0,0.149,0.00613,0.00426,0.297,0.895,124.976
+DÁKITI,Frank Lima Violinist,spotify:track:0KpbS0GFu8XHXQ63YcltZE,0.707,0.498,4,-13.215,0,0.0566,0.871,0.914,0.0935,0.109,110.024
+House of the Rising Sun,Audiomachine,spotify:track:3KWU60ms2hmZeIDkyzllM3,0.183,0.715,2,-7.424,0,0.0928,0.00694,0.0687,0.1,0.147,83.783
+Somewhere Out There,Peter Hollens,spotify:track:4SNEybGkvdDvEEb4GkjtRn,0.233,0.409,2,-4.811,1,0.0315,0.699,0.0,0.107,0.177,75.239
+Just Say,Nine One One,spotify:track:3rHhEJPRVZWSEPmlNOLoAm,0.424,0.336,4,-11.932,1,0.0463,0.628,0.00032,0.0802,0.136,132.243
+When the Devil Calls (Drumstep),Blues Saraceno,spotify:track:0JodxZZWfbtOHpDPuI3F91,0.537,0.75,1,-7.122,0,0.0538,0.228,0.0,0.156,0.335,168.1
+Devil's Playground,The Rigs,spotify:track:3WdHywW5eesvHX9pj5z8eT,0.41,0.496,9,-10.22,0,0.0376,0.332,1.17e-05,0.114,0.454,71.105
+I'd Do Anything For Love (But I Won't Do That) - Single Edit,Meat Loaf,spotify:track:391CwgcBxvUHmEKda2b5In,0.419,0.672,2,-6.353,1,0.092,0.623,0.0,0.412,0.304,105.212
+School's Out,Alice Cooper,spotify:track:5Z8EDau8uNcP1E8JvmfkZe,0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364
+Blood In The Water,KSHMR,spotify:track:4jM545c2DEKT78TYRSSzIr,0.45,0.733,2,-6.238,1,0.0605,0.0779,0.413,0.14,0.147,120.019
+Stairway To Heaven,London Philharmonic Orchestra,spotify:track:0aoTpQt7w3y3qwx029PTNN,0.146,0.0957,9,-20.822,0,0.0393,0.917,0.829,0.0601,0.0369,139.514
+Folsom Prison Blues,Johnny Cash,spotify:track:0Avmi9t3sOcaGSs1DSbgDg,0.754,0.54,5,-8.326,1,0.0266,0.691,7.51e-05,0.0868,0.79,101.738
+Everybody Knows,Sigrid,spotify:track:34b3PCTLUISY153eb2F72k,0.656,0.225,7,-11.777,1,0.0313,0.641,6.32e-05,0.101,0.156,106.023
+Everybody Knows,John Legend,spotify:track:7qzxYfznGcwVUemSxhwCZY,0.609,0.541,8,-5.458,1,0.0287,0.00495,0.0,0.105,0.455,89.97
+Can't Help Falling In Love - DARK,Tommee Profitt,spotify:track:1xErKvTvMqszpokp8Mr3Mq,0.186,0.51,8,-5.953,1,0.0568,0.0997,0.0353,0.067,0.2,199.928
+The Night The Lights Went Out In Georgia - Eric Kupper Remix,Reba McEntire,spotify:track:3CCx4xeyrZQTONz6MvURaX,0.576,0.931,0,-5.983,1,0.0335,0.00198,0.455,0.0678,0.841,129.975
+Chains - Remix,Nick Jonas,spotify:track:3ehS7brEPi3Pc8yitrFdbG,0.504,0.674,0,-5.824,0,0.0622,0.0247,0.0,0.0757,0.0991,76.847
+Cold Heart - PNAU Remix,Elton John,spotify:track:6zSpb8dQRaw0M1dK8PBwQz,0.796,0.798,1,-6.312,1,0.0317,0.034,4.19e-05,0.0952,0.942,116.032
+Everything That I Want,MAVV,spotify:track:1A2rlbdSXZWyPXkEm3AXK5,0.635,0.516,3,-8.677,1,0.0341,0.125,0.0,0.12,0.127,114.074
+The Loophole,Garfunkel and Oates,spotify:track:6B89ADIwxCw60PHZN6Kdp4,0.569,0.367,5,-5.178,1,0.0878,0.862,0.000155,0.337,0.823,169.768
+Major Tom (Coming Home) - Adam K & Soha Radio Edit,Shiny Toy Guns,spotify:track:7nXXIXFSyDDPlfzCW9bdAa,0.732,0.764,10,-6.503,0,0.0631,0.162,0.346,0.322,0.685,132.019
+The Wreck of the Edmund Fitzgerald,Gordon Lightfoot,spotify:track:536L9C0N7vhYdibCJx3cI2,0.308,0.376,4,-15.24,1,0.0626,0.116,2.52e-06,0.166,0.158,186.047
